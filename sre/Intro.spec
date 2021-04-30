@@ -18,7 +18,7 @@ SRE Team
 Delivery is handled  by both  Developement Team & SRE  Team  Together ,  more discussion between both Teams.
 
 
---Comparing DevOps and SRE 
+==Comparing DevOps and SRE 
 DevOps  Team 
     Design, Developtment, Testing, Acceptance,  Delivery , Support, Maintenance, Capacity 
 
