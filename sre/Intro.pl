@@ -21,7 +21,7 @@ Delivery is handled  by both  Developement Team & SRE  Team  Together ,  more di
 ==Comparing DevOps and SRE 
 DevOps  Team 
     Design, Developtment, Testing, Acceptance,  Delivery , Support, Maintenance, Capacity 
-
+++ ++ dsf
 
 
 Key Tenents of SRE 
