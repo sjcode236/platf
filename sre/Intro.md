@@ -1,18 +1,8 @@
 
-// breakpoints
-$width-xs: 0;
-$width-sm: 544px;
-$width-md: 768px;
-$width-lg: 1012px;
-$width-xl: 1280px;
-
-$breakpoints: (
-  // Small screen / phone
-  sm: $width-sm,
-  // Medium screen / tablet
-  md: $width-md,
-  // Large screen / desktop (980 + (12 * 2)) <= container + gutters
-  lg: $width-lg,
-  // Extra large screen / wide desktop
-  xl: $width-xl
-) !default;
+<nav aria-label="Breadcrumb">
+  <ol>
+    <li class="breadcrumb-item text-small"><a href="/business">Business</a></li>
+    <li class="breadcrumb-item text-small"><a href="/business/customers">Customers</a></li>
+    <li class="breadcrumb-item breadcrumb-item-selected text-small text-gray" aria-current="page">MailChimp</li>
+  </ol>
+</nav>
