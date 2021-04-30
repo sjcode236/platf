@@ -24,5 +24,8 @@ DevOps  Team
 
 
 
-
+Key Tenents of SRE 
+    Eliminating Toil 
+    Maintaining Sevice Levels 
+    Managing Failiure 
 
