@@ -132,10 +132,10 @@ Once your inventory and playbooks are ready, use the ansible-playbook command fr
 ansible-playbook -i inventory.ini install_packages.yml
 ```
 Common flags you will need:    
--i: Point to your inventory file.
--K: (Capital K) Prompts for your sudo password (needed for the become: yes tasks).
--u: Specify the SSH user if it's different from your current local user (e.g., -u admin).
---check: "Dry run" mode; it shows what would change without actually changing anything.     
+-i: Point to your inventory file. ;
+-K: (Capital K) Prompts for your sudo password (needed for the become: yes tasks).  ; 
+-u: Specify the SSH user if it's different from your current local user (e.g., -u admin).  ;
+--check: "Dry run" mode; it shows what would change without actually changing anything.       
 ──────────────────────────────────────────────────       
 
 
