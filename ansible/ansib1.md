@@ -98,9 +98,24 @@ The ping module in Ansible doesn't just check ICMP; it verifies that Ansible can
       debug:
         msg: "Server {{ inventory_hostname }} connectivity status: {{ ping_output.ping }}"
 ```
+──────────────────────────────────────────────────   
+GitHub Repository Structure :-   
+To keep your code organized on GitHub, use a structure like this:    
+```
+ansible-rhel-project/
+├── inventory.ini
+├── install_packages.yml
+├── check_versions.yml
+├── check_mounts.yml
+└── ping_test.yml
+```
+To push to GitHub:   
+1. Initialize the repo: git init
+2. Add files: git add .
+3. Commit: git commit -m "Initial Ansible Playbooks"
+4. Push: git remote add origin <your-repo-url> and git push -u origin main
 
-
-
+──────────────────────────────────────────────────    
 
 
 
