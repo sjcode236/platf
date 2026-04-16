@@ -23,12 +23,30 @@ then playbook to do pring test of  10 servers
 I want write these codes github repository   
 then how can execute these playbooks  
 ──────────────────────────────────────────────────     
-1. Setting Up Your Inventory
+1. Setting Up Your Inventory  
    Before writing playbooks, create a file named inventory.ini. This tells Ansible where your 10 servers are.
 ```
 [web_servers]
 server[1:10].example.com
 ```
+
+Playbook A: Install Common Packages:-  
+This uses the dnf module, which is standard for RHEL 8.9.  
+---
+- name: Install Common Packages on RHEL 8.9
+  hosts: web_servers
+  become: yes  # Runs as root/sudo
+  tasks:
+    - name: Ensure common tools are installed
+      dnf:
+        name:
+          - vim
+          - git
+          - curl
+          - net-tools
+        state: present
+
+      
 
 
 
