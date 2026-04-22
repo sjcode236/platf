@@ -24,4 +24,7 @@ https://www.youtube.com/watch?v=wQ2TzHVwXjE
 About Slurm on GKE    
 https://docs.cloud.google.com/kubernetes-engine/docs/add-on/slurm-on-gke/concepts/overview    
 https://docs.cloud.google.com/kubernetes-engine/docs/how-to/serve-llm-l4-ray    
-https://docs.cloud.google.com/kubernetes-engine/docs/add-on/ray-on-gke/how-to/ray-a4x     
+https://docs.cloud.google.com/kubernetes-engine/docs/add-on/ray-on-gke/how-to/ray-a4x    
+
+"How to Set Up GPU Pods in Kubernetes in google cloud"    
+
