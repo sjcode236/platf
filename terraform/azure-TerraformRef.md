@@ -5,3 +5,5 @@ https://www.udemy.com/course/terraform-101-azure-edition/
 
 Terraform is  idempotent   
 
+
+
