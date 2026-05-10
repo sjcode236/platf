@@ -61,6 +61,13 @@ A highly cohesive module does one thing and does it well (e.g., managing a Virtu
 -Splitting by Lifecycle: Keep persistent data (Databases/Storage) separate from ephemeral compute (App Services/Containers).   
 -Using Composition: Instead of one giant module, create several small, highly cohesive modules and call them together in your root main.tf.   
 
+**Declarative** Terraform is designed as a Declarative tool.    
+The biggest advantage of the declarative approach is ___Idempotency___. An idempotent operation is one that has no additional effect if it is called more than once with the same input parameters.    
+* Declarative (The "What"): You define the end state. You tell Terraform, "I want a total of 5 Azure VMs and a Virtual Network." You don't care how it gets there; Terraform calculates the current state, compares it to your definition, and performs the necessary actions to match it. eg:- Real world eg:- Declarative: You walk up to the counter and say, "I'd like a large latte." You have defined the end state. The barista knows the "logic" required to make that happen.  
+* Imperative (The "How"): You define the steps. This is like writing a Bash or PowerShell script. You tell the system: "Step 1: Create a Resource Group. Step 2: Create a VM. Step 3: Wait 30 seconds. Step 4: Create another VM." . Realworld eg:- Imperative: You walk behind the counter and say, "Take a cup. Grind 18g of beans. Pull a shot for 28 seconds. Steam the milk to 65°C. Pour the milk into the cup."
+
+
+
 
 
 
