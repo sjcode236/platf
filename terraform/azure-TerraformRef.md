@@ -48,7 +48,10 @@ A module is simply a set of Terraform configuration files in a single directory.
 * Variables (Inputs): These are the only "knobs" the user can turn. They allow you to pass values into the encapsulated logic without the user needing to edit the resource code directly.    
 * Resources (Private Logic): The actual resource blocks (e.g., azurerm_linux_virtual_machine) stay hidden inside the module. The user doesn't need to know exactly how the VM is configured, only that it is being created.
 * Outputs (Interface): These define what information is shared back to the root configuration, such as a generated IP address or a Resource ID.
+3. Why Use Encapsulation?    
+* Reusability ;  Simplicity ; Consistency ;  
 
- 
-* 
+════════════════════════════════════════════     
+
+
 
