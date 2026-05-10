@@ -74,8 +74,10 @@ Declaring a resource has 3 parts
 *Resource type (eg: random_string)   
 *object reference (name of resource)   
  -resource attribtes put in curly braces    
-   
-
+════════════════════════════════════════════    
+terraform init  -> initialiase the current working directory     
+terrafrom plan  -> show what its going to do when apply
+terraform apply -> actually make the changes 
 
 
 
