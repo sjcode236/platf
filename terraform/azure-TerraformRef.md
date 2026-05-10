@@ -1,5 +1,6 @@
 
-
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+════════════════════════════════════════════  
 Terraform on Azure with IaC DevOps SRE | Real-World 25 Demos   
 https://www.udemy.com/share/10571S3@6uR08gSTgUH9K9y5F84mkoteuWY7Pdw1wFZL614oWOq3KCGzCH7duIoXwmB2gl97/   
  
@@ -12,5 +13,30 @@ In the context of Terraform, idempotence is the property where running the same 
 **immutable**     
 In Terraform, immutable means that once a resource (such as a Virtual Machine, database, or server) is created, it is never modified or patched in place. If the configuration changes—such as updating a server's OS or application version—Terraform destroys the existing resource and creates a brand new one with the updated configuration.   
 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+A Simple "Hello World" Example :- To get started, you create a file named main.tf 
 
-A Simple "Hello World" Example   
+```
+# 1. Define the Provider
+terraform {
+  required_providers {
+    azurerm = {
+      source  = "hashicorp/azurerm"
+      version = "~> 3.0"
+    }
+  }
+}
+
+provider "azurerm" {
+  features {} # Required for the AzureRM provider
+}
+
+# 2. Create a Resource Group
+resource "azurerm_resource_group" "example" {
+  name     = "my-first-tf-rg"
+  location = "West US"
+}
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+
+
