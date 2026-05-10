@@ -68,7 +68,13 @@ The biggest advantage of the declarative approach is ___Idempotency___. An idemp
 
 **DRY:-** The principle of DRY (Don’t Repeat Yourself) is crucial for maintaining efficient and manageable codebases. DRY aims to minimize code duplication and maximize reusability. Instead of copying and pasting code blocks for similar resources or environments, a DRY approach uses abstraction techniques to ensure that infrastructure logic exists in only one place, making it easier to maintain, update, and scale.   
 
-
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+Declaring a resource has 3 parts    
+*blocktype (eg:-resource   
+*Resource type (eg: random_string)   
+*object reference (name of resource)   
+ -resource attribtes put in curly braces    
+   
 
 
 
