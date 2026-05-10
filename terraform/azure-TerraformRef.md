@@ -52,6 +52,7 @@ A module is simply a set of Terraform configuration files in a single directory.
 * Reusability ;  Simplicity ; Consistency ;  
 
 ════════════════════════════════════════════     
-
+**cohesion:-** cohesion refers to how closely related the resources within a single module one to one another. While encapsulation is about "hiding" complexity, cohesion is about "focusing" the logic.    
+A highly cohesive module does one thing and does it well (e.g., managing a Virtual Network), whereas a lowly cohesive module is a "junk drawer" of unrelated resources.     
 
 
