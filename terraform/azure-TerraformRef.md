@@ -54,6 +54,14 @@ A module is simply a set of Terraform configuration files in a single directory.
 
 ════════════════════════════════════════════     
 **cohesion:-** cohesion refers to how closely related the resources within a single module one to one another. While encapsulation is about "hiding" complexity, cohesion is about "focusing" the logic.    
-A highly cohesive module does one thing and does it well (e.g., managing a Virtual Network), whereas a lowly cohesive module is a "junk drawer" of unrelated resources.     
+A highly cohesive module does one thing and does it well (e.g., managing a Virtual Network), whereas a lowly cohesive module is a "junk drawer" of unrelated resources.  To achieve high cohesion, you should group resources based on their lifecycle and function. 
+* Good Cohesion (Functional): Grouping an azurerm_linux_virtual_machine with its azurerm_network_interface and azurerm_managed_disk. These resources are functionally dependent on each other to provide a "server."
+* to Improve Cohesion in Your Work :-  
+-Splitting by Layer: Separate your Networking (VNet/Subnets) from your Compute (VMs/Scale Sets).   
+-Splitting by Lifecycle: Keep persistent data (Databases/Storage) separate from ephemeral compute (App Services/Containers).   
+-Using Composition: Instead of one giant module, create several small, highly cohesive modules and call them together in your root main.tf.   
+
+
+
 
 
