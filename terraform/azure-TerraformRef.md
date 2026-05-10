@@ -41,4 +41,14 @@ resource "azurerm_resource_group" "example" {
 chat gpt conversation    
 https://gemini.google.com/share/55a8971201f6    
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+**encapsulation:-**  
+In Terraform, encapsulation refers to the practice of grouping related infrastructure resources together and hiding their internal complexity from the rest of the configuration. This is primarily achieved through Modules.      
+A module is simply a set of Terraform configuration files in a single directory. By using modules, you encapsulate your logic so that a user can deploy a complex setup (like a load balancer with auto-scaling) by calling a single block of code.    
+2. The Three Pillars of Encapsulation:-    
+* Variables (Inputs): These are the only "knobs" the user can turn. They allow you to pass values into the encapsulated logic without the user needing to edit the resource code directly.    
+* Resources (Private Logic): The actual resource blocks (e.g., azurerm_linux_virtual_machine) stay hidden inside the module. The user doesn't need to know exactly how the VM is configured, only that it is being created.
+* Outputs (Interface): These define what information is shared back to the root configuration, such as a generated IP address or a Resource ID.
+
+ 
+* 
 
