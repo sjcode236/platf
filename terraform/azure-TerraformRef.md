@@ -70,14 +70,36 @@ The biggest advantage of the declarative approach is ___Idempotency___. An idemp
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
 Declaring a resource has 3 parts    
-*blocktype (eg:-resource   
+*blocktype (eg:-resource , variable )   
 *Resource type (eg: random_string)   
 *object reference (name of resource)   
  -resource attribtes put in curly braces    
 ════════════════════════════════════════════    
 terraform init  -> initialiase the current working directory     
-terrafrom plan  -> show what its going to do when apply
-terraform apply -> actually make the changes 
+terrafrom plan  -> show what its going to do when apply    
+terraform apply -> actually make the changes   
+════════════════════════════════════════════     
+An **Availability Zone** (AZ) is a physically separate group of one or more datacenters within a cloud provider’s region, designed to ensure high availability and fault tolerance. Each AZ has independent power, cooling, and networking, so if one zone experiences an outage, workloads in other zones remain unaffected. AZs are typically several kilometers apart (but within ~100 km) to reduce the risk of simultaneous failures from local disasters, while still maintaining low-latency (<2 ms) inter-zone networking for synchronous data replication.      
+════════════════════════════════════════════     
+terraform **workspace**      
 
+════════════════════════════════════════════         
+locals  & variables   
+
+════════════════════════════════════════════     
+input
+output 
+
+════════════════════════════════════════════     
+**String interpolation**  means inserting variable values or expressions directly inside a string.
+The string becomes dynamic — it changes based on the values you insert.    
+```
+resource "aws_s3_bucket" "app" {
+  bucket = "myapp-${var.env}-bucket"
+}
+resource "aws_instance" "web" {
+  instance_type = "${var.env == "prod" ? "t3.large" : "t3.micro"}"
+}
+```
 
 
