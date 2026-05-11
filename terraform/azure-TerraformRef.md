@@ -83,12 +83,6 @@ An **Availability Zone** (AZ) is a physically separate group of one or more data
 ════════════════════════════════════════════     
 terraform **workspace**      
 
-════════════════════════════════════════════         
-locals  & variables   
-
-════════════════════════════════════════════     
-input
-output 
 
 ════════════════════════════════════════════     
 **String interpolation**  means inserting variable values or expressions directly inside a string.
@@ -99,6 +93,34 @@ resource "aws_s3_bucket" "app" {
 }
 resource "aws_instance" "web" {
   instance_type = "${var.env == "prod" ? "t3.large" : "t3.micro"}"
+}
+```
+════════════════════════════════════════════        
+Terraform provider registry   https://registry.terraform.io/    
+
+════════════════════════════════════════════      
+════════════════════════════════════════════         
+locals  & variables   
+
+════════════════════════════════════════════     
+input
+output 
+
+-default input variables  normailly put in terraform.tfvars or auto.tfvars files     
+A **sensitive variable** is a variable marked sensitive so Terraform will not display its value in:   
+terraform plan; terraform apply; CLI output; State diffs   
+<value sensitive>     
+```
+variable "db_password" {
+  type      = string
+  sensitive = true
+}
+resource "aws_db_instance" "db" {
+  password = var.db_password
+}
+output "db_password" {
+  value     = var.db_password
+  sensitive = true
 }
 ```
 
