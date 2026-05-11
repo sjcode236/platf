@@ -92,7 +92,7 @@ output
 
 ════════════════════════════════════════════     
 **String interpolation**  means inserting variable values or expressions directly inside a string.
-The string becomes dynamic — it changes based on the values you insert.    
+The string becomes dynamic — it changes based on the values you insert. String interpolation concatinates strings together.   
 ```
 resource "aws_s3_bucket" "app" {
   bucket = "myapp-${var.env}-bucket"
