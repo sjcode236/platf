@@ -128,7 +128,8 @@ output "db_password" {
 TF_VAR_<variable_name>
 export TF_VAR_env="prod"   
 terraform apply
-
+════════════════════════════════════════════     
+https://registry.terraform.io/   
 
 
 
