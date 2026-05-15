@@ -127,11 +127,19 @@ output "db_password" {
 * Pass input variables to Terraform from Bash by exporting environment variables using the **TF_VAR_ prefix**. Terraform automatically picks them up and treats them as variable values.   
 TF_VAR_<variable_name>
 export TF_VAR_env="prod"   
-terraform apply
+terraform apply    
 ════════════════════════════════════════════     
 https://registry.terraform.io/   
 
-
+════════════════════════════════════════════     
+terraform variable types 
+string ; 
+number ; 
+bool  ;
+list , 
+map ; ( is like dictionary , key value pair 
+set  (cannot have duplicate values ) 
+════════════════════════════════════════════       
 
 
 
