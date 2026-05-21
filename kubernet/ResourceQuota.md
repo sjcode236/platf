@@ -4,7 +4,7 @@
    This file limits the total combined resources all pods can use together in the namespace.Create a file named quota.yaml:
    Create a file named quota.yaml:
    ```
-   apiVersion: v1
+apiVersion: v1
 kind: ResourceQuota
 metadata:
   name: namespace-resource-limits
