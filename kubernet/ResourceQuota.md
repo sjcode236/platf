@@ -70,7 +70,19 @@ spec:
         memory: "10Gi"
         cpu: "1"
 ```
-
+b-Attempt to Apply the Manifest     
+  kubectl apply -f violating-pod.yaml      
+c- Expected Error Result   
+The Kubernetes API server will immediately block the deployment and print an error message directly to your terminal. It will look like this:   
+```
+Error from server (Forbidden): error when creating "violating-pod.yaml": pods "oversized-test-pod" is forbidden: exceeded quota: namespace-resource-limits, requested: requests.memory=10Gi, used: requests.memory=0, limited: requests.memory=8Gi
+```
+d-Alternative Test: Exceeding Pod Count Quota     
+Our quota.yaml also restricted the maximum number of pods to 10. You can test this constraint by scaling a standard deployment to 11 replicas:bash   
+```
+kubectl create deployment nginx-test --image=nginx -n <namespace-name>
+kubectl scale deployment nginx-test --replicas=11 -n <namespace-name>
+```
 
 
 6. asdfasdfasdf
