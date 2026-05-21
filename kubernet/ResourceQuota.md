@@ -49,16 +49,40 @@ kubectl apply -f quota.yaml
 kubectl apply -f limits.yaml    
 
 
-4. asdfasdf
-5. gsdfgdfsg
-6. abcd
-7. abdd
-8. kjkdf
-9. wers
-10. xkkmmdf
-11. ksdfk;l
-12. sdfk;l
-13. lk;fsdf
-14. sdfdsf
-15. 
+4. To test the ResourceQuota,   
+you can deploy a pod that requests more resources than the namespace allows. Based on the quota.yaml configuration provided earlier (which limits total requests to 8Gi of memory), deploying a single pod that asks for 10Gi will trigger an immediate rejection from the Kubernetes API.   
+a- Create a Violating Pod Manifest:- Create a file named violating-pod.yaml:   
+```
+apiVersion: v1
+kind: Pod
+metadata:
+  name: oversized-test-pod
+  namespace: <namespace-name>
+spec:
+  containers:
+  - name: stress-test
+    image: nginx
+    resources:
+      requests:
+        memory: "10Gi"   # Exceeds the 8Gi namespace total request quota
+        cpu: "1"
+      limits:
+        memory: "10Gi"
+        cpu: "1"
+```
+
+
+
+6. asdfasdfasdf
+7. gsdfgdfsg
+8. abcd
+9. abdd
+10. kjkdf
+11. wers
+12. xkkmmdf
+13. ksdfk;l
+14. sdfk;l
+15. lk;fsdf
+16. sdfdsf
+17. 
    
