@@ -17,7 +17,47 @@ spec:
     limits.memory: 16Gi       # Total memory limits allowed across all pods
     pods: "10"                # Maximum number of pods allowed in the namespace
 ```
-3. dsfsdf
-4. sdfdsf
-5. 
+2. LimitRange Manifest (Per-Container Defaults)   
+This file sets the default rules for single containers, preventing a developer from deploying a pod without resource boundaries.
+Create a file named limits.yaml:
+```
+apiVersion: v1
+kind: LimitRange
+metadata:
+  name: container-resource-defaults
+  namespace: <namespace-name>
+spec:
+  limits:
+  - type: Container
+    default:                  # Default limit if not specified by user
+      cpu: 500m
+      memory: 512Mi
+    defaultRequest:           # Default request if not specified by user
+      cpu: 200m
+      memory: 256Mi
+    max:                      # Max limit a user is allowed to set
+      cpu: "2"
+      memory: 2Gi
+    min:                      # Min request a user is allowed to set
+      cpu: 100m
+      memory: 128Mi
+
+```
+Apply the Manifests     
+kubectl apply -f quota.yaml    
+kubectl apply -f limits.yaml    
+
+
+4. asdfasdf
+5. gsdfgdfsg
+6. abcd
+7. abdd
+8. kjkdf
+9. wers
+10. xkkmmdf
+11. ksdfk;l
+12. sdfk;l
+13. lk;fsdf
+14. sdfdsf
+15. 
    
