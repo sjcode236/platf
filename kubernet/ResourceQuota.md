@@ -84,7 +84,11 @@ Our quota.yaml also restricted the maximum number of pods to 10. You can test th
 kubectl create deployment nginx-test --image=nginx -n <namespace-name>
 kubectl scale deployment nginx-test --replicas=11 -n <namespace-name>
 ```
-
+To see why the 11th pod fails to create, inspect the ReplicaSet events:   
+```
+kubectl describe replicaset -n <namespace-name>
+--You will find a FailedCreate warning event stating that the pod count quota was exceeded.
+```
 
 6. asdfasdfasdf
 7. gsdfgdfsg
