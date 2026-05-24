@@ -1,7 +1,8 @@
 
 
 Kubernetes    Misc  
-
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+══════════════════════════════════════════    
 
 Hameed referal course     
 https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14298664?start=1#overview    
