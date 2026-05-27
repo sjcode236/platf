@@ -14,12 +14,12 @@ Bipin referels
 
 ════════════════════════════════════════════ 
 How to make full RAG AI application using below things; can I make it with free solutions , with web interface 
-RAG basics: 
-Vector DB:  
-FastAPI 
-LLM: 
-Backend host:
-Embeddings: 
+RAG basics:  
+Vector DB:   
+FastAPI  
+LLM:  
+Backend host:  
+Embeddings:   
 
 ════════════════════════════════════════════  
 
