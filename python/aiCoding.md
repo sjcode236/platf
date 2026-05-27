@@ -13,7 +13,7 @@ Bipin referels
 
 
 ════════════════════════════════════════════ 
-How to make full RAG AI application using below things; can I make it with free solutions , with web interface 
+How to make full RAG AI application using below things; can I make it with free solutions , with web interface   
 RAG basics:  
 Vector DB:   
 FastAPI  
