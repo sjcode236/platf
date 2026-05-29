@@ -12,7 +12,8 @@ https://www.udemy.com/course/gcp-gke-terraform-on-google-kubernetes-engine-devop
 GCP GKE Terraform on Google Kubernetes Engine DevOps SRE IaC   
 https://www.udemy.com/course/gcp-gke-terraform-on-google-kubernetes-engine-devops-sre-iac/?couponCode=MT260529G2   
 
-
+The Complete Terraform with Ansible Bootcamp   
+https://www.udemy.com/course/terraform-and-ansible/?couponCode=MT260529G2    
 
 
 Terraform on Azure with IaC DevOps SRE | Real-World 25 Demos   
