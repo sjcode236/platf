@@ -6,5 +6,8 @@ Automating GCP Infrastructure using Terraform and Jenkins | Full CI/CD Pipeline
 https://www.youtube.com/watch?v=ztAWlAqUOoU    
 
 
-udemy course 
+udemy course  GCP 
 https://www.udemy.com/course/gcp-gke-terraform-on-google-kubernetes-engine-devops-sre-iac/?couponCode=MT260529G2     
+
+azure terraform  course 
+https://www.udemy.com/course/terraform-101-azure-edition/learn/lecture/46139295#overview
