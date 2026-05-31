@@ -25,4 +25,15 @@ Create GKE Cluster Using Terraform | Google Cloud
 https://www.youtube.com/watch?v=K9IFF9AFnVI    
 Automating GCP Infrastructure using Terraform and Jenkins | Full CI/CD Pipeline    
 https://www.youtube.com/watch?v=ztAWlAqUOoU     
+
+Kubernetes — Complete Notes   ( CloudTechDevOps  )    
+https://github.com/CloudTechDevOps/Kubernetes-0730/tree/main/Day-1-Intro-installations   
+
+
+
+
+
+
+
+
     
