@@ -14,6 +14,7 @@ https://youtu.be/Quc24xptj-4?si=egro6J4FBAYxMqzZ
 Observability in Action | Session 2 | Veerababu   
 https://www.youtube.com/watch?v=ZwkqgvftazA    
 
+splunk search processing language   
 splunk take log from server eg /var/logs and forward to splunk    
 splunk forwarder     
 
