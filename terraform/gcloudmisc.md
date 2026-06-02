@@ -9,6 +9,7 @@ Google Cloud DevOps Project : CI/CD Pipeline using Jenkins and Terraform | Githu
 https://www.youtube.com/watch?v=14x4XwEwiDs      
 
 
-
-
+Terraform with Google Cloud:-    
+Create GCP Folder using Terraform | Terraform with Google Cloud     
+https://www.youtube.com/watch?v=dtJfkUgadYY&list=PLLrA_pU9-Gz0jyZ3ES0HnP3oJA8uY8KOB&index=2    
 
