@@ -6,8 +6,13 @@ Automating GCP Infrastructure using Terraform and Jenkins | Full CI/CD Pipeline
 https://www.youtube.com/watch?v=ztAWlAqUOoU    
 
 
-udemy course  GCP 
-https://www.udemy.com/course/gcp-gke-terraform-on-google-kubernetes-engine-devops-sre-iac/?couponCode=MT260529G2     
+udemy course  GCP   
+GCP GKE Google Kubernetes Engine DevOps 75 Real-World Demos   
+https://www.udemy.com/course/gcp-google-kubernetes-engine-gke-with-devops/?couponCode=MT260601G2      
+
+GCP Associate Cloud Engineer Google Certification -150 Demos   
+https://www.udemy.com/course/gcp-associate-cloud-engineer-google-certification/?couponCode=MT260601G2    
+
 
 GCP GKE Terraform on Google Kubernetes Engine DevOps SRE IaC   
 https://www.udemy.com/course/gcp-gke-terraform-on-google-kubernetes-engine-devops-sre-iac/?couponCode=MT260529G2   
