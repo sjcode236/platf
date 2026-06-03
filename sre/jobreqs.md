@@ -26,3 +26,18 @@ Work with all other Early Warning departments to perform ad hoc, or to automate 
 Complies with all security policies and procedures to ensure the highest level of integrity relative to data protection, confidential and sensitive information, and security within the workplace
 
 ```
+Principal Site Reliability Engineer   
+```
+Design and Implement software and tools to improve the performance - availability, scalability, and latency, while delivering end products to customer with the highest efficiency and meeting all security standards. 
+Supports the company’s commitment to risk management and protecting the integrity and confidentiality of systems and data. 
+Build automation and tooling around application management, such as deployments, configuration changes and disaster recovery scenarios. 
+Design, Implement and evangelize Observability and monitoring systems to proactively detect problems and identify cause. 
+Evaluate capacity of the application on a continuous basis to provide stats to the Product/Business teams and recommend an efficient path to scale for future needs. 
+Identify performance bottlenecks and work with cross-functional teams to troubleshoot and resolve issues. 
+Serve as a technical liaison for the application and provide documents and runbooks to Level 1 and Level 2 teams. 
+Participate in 24 X 7 on-call rotation. 
+Be a champion of excellent processes; take the initiative in developing repeatable patterns and standard, re-usable work across teams. 
+Work directly with application development teams to provide feedback and technical requirements to the software development lifecycle, implementing best-practice microservice design patterns and other modern software development approaches. 
+Understand and support the adoption of best-practice microservice design patterns and other modern software reliability approaches and techniques. 
+Be a thought leader: a senior point of expertise on site reliability engineering issues, industry trends and developing technologies. Be a role model to others on the team. Coach and mentor team members
+```
