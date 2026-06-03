@@ -41,3 +41,60 @@ Work directly with application development teams to provide feedback and technic
 Understand and support the adoption of best-practice microservice design patterns and other modern software reliability approaches and techniques. 
 Be a thought leader: a senior point of expertise on site reliability engineering issues, industry trends and developing technologies. Be a role model to others on the team. Coach and mentor team members
 ```
+
+ Site Reliability Engineer (SRE) – Lead      
+```
+Reliability & Engineering Ownership
+
+Own SLIs, SLOs, error budgets, and reliability KPIs for Cloud, Legacy, and Database platforms.
+Lead availability, resiliency, performance, and capacity engineering initiatives across AWS and hybrid platforms.
+Drive root cause elimination, not symptom resolution, through problem management and engineering remediation.
+AI‑First & Agentic Operations
+
+Lead the adoption of Agentic AI for:
+Incident triage and correlation
+Auto‑remediation and self‑healing
+SLA breach prediction
+Vulnerability remediation (VMAST)
+Guide teams through transition from AI‑assist → AI‑first → autonomous ops.
+Operational Leadership
+
+Act as Major Incident Commander (P1/P2) ensuring rapid recovery and clear communication.
+Establish 24x7 SRE operations, runbooks, SOPs, and operational governance.
+Partner with Service Enablement & Excellence Office (SEO) on continuous improvement and automation roadmap.
+FinOps & Cost Governance
+
+Embed FinOps practices into SRE workflows:
+Resource tagging compliance
+Rightsizing, auto‑scaling
+Cost anomaly detection
+Drive measurable TCO and toil reduction outcomes.
+Team & Stakeholder Leadership
+
+Lead and mentor SRE Engineers, Agentic SREs, Automation Engineers, and FDEs.
+Collaborate with Cloud Architects, AI Architects, Product Engineering, Security, and Vendors.
+Present operational health, risks, and roadmap to senior leadership and clients.
+ 
+
+Required Skills & Experience
+
+Extensive experience (10–15+ years) in Site Reliability Engineering, Cloud Operations, Platform Engineering, or large‑scale Infrastructure Operations within enterprise or mission‑critical environments.
+Proven expertise in designing and operating SRE‑led operating models, including:
+Defining and governing SLIs, SLOs, error budgets, and reliability KPIs
+Driving cultural shift from reactive operations to engineering‑driven, reliability‑focused operations
+Strong hands‑on experience with public cloud platforms (AWS preferred) including:
+EKS/Kubernetes, EC2, RDS/Aurora, IAM, networking, security services, and elasticity patterns
+Deep operational knowledge of observability and monitoring platforms such as:
+Datadog, Splunk, Open Telemetry, CloudWatch
+Event correlation, noise reduction, synthetic monitoring, and service mapping
+Demonstrated leadership in Major Incident Management (P1/P2), including:
+Incident command, stakeholder communication, executive reporting, and post‑incident RCA
+Strong background in DevSecOps and automation, including:
+Infrastructure as Code (Terraform, GitOps)
+CI/CD pipelines (Harness, ArgoCD, GitHub)
+Automated remediation and operational workflows
+Experience embedding FinOps practices into operations:
+Cost visibility, tagging compliance, rightsizing, auto‑scaling, and consumption optimization
+Demonstrated ability to lead and mentor large, cross‑functional global teams, including SRE Engineers, automation engineers, AI/Agentic SREs, and platform SMEs.
+Strong stakeholder management skills with the ability to engage senior leadership, clients, vendors, and hyperscalers.
+```   
