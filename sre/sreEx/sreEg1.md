@@ -4,7 +4,7 @@ you must bridge standard SRE practices with CVS-specific enterprise compliance, 
 
 - step-by-step implementation framework tailored to your environment:
 
-  1. Define Critical User Journeys (CUJs)   
+1. Define Critical User Journeys (CUJs)   
   Before measuring anything, identify the most critical paths your internal users take through the application.   
 * Identify: For a CVS internal app (e.g., pharmacy data lookups, internal logistics, or employee dashboards), determine the primary user actions.
 * Focus: Filter out secondary background tasks. Focus strictly on the core operations that, if broken, cause immediate operational stoppages.
