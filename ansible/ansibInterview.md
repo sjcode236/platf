@@ -19,4 +19,6 @@ How to make playbook run  serially in batches  instead of parallely
 serial  :  2 or 10%  
 
 
+loop vs with items   
+
 
