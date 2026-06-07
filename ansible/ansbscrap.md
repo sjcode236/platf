@@ -3,7 +3,7 @@ scrap for asnible codes
 
 
 
-
+check_mounts.yml in VS Code and paste the following code:    
 ```
 ---
 - name: Check mounted filesystems on MacBook
