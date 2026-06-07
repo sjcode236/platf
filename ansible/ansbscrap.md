@@ -20,3 +20,6 @@ check_mounts.yml in VS Code and paste the following code:
       ansible.builtin.debug:
         msg: "{{ df_output.stdout_lines }}"
 ```
+```
+ansible-playbook check_mounts.yml
+```
