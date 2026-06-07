@@ -1,3 +1,5 @@
 
 
-https://github.com/sjcode236/jobP/blob/master/%23%3Djobpublinks.md    
+https://github.com/sjcode236/jobP/blob/master/%23%3Djobpublinks.md      
+
+noteapp on macbook   obsidian    
