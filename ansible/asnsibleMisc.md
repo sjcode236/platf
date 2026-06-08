@@ -14,3 +14,11 @@ https://www.udemy.com/course/ansible-by-examples-devops/?couponCode=MT260529G2
 
 Ansible Roles and Tasks Exaplained - Part-10    
 https://www.youtube.com/watch?v=HYBFuHUQBT8     
+
+
+Ansible || Beginner to Expert     
+Mastering Ansible Vault: Securely Encrypt & Decrypt Sensitive Data (Step-by-Step Example)      
+https://www.youtube.com/watch?v=etxPLclzJa0&list=PLVCgi5HZ0-Yvk3uxNptqSHxz1iyn8NoIj&index=14    
+https://www.youtube.com/watch?v=etxPLclzJa0    
+
+
