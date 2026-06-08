@@ -40,6 +40,27 @@ Find ip address of localhost
 
 ```
 ══════════════════════════════════════════      
+Print filesystems on gcloud vms ;vm ips saved in inventory.ini    
+```
+---
+- name: Check mounted filesystems on MacBook
+  hosts: gcpvms
+  gather_facts: false
+
+  tasks:
+    - name: Run df command to see mounted filesystems
+      ansible.builtin.command: df -h
+      register: df_output
+
+    - name: Display the mounted filesystems
+      ansible.builtin.debug:
+        msg: "{{ df_output.stdout_lines }}"
+
+# ansible-playbook  -i inventory.ini getmounts.yml 
+```
+══════════════════════════════════════════      
+
+
 
 
 
