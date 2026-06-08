@@ -8,7 +8,7 @@ noteapp on macbook   obsidian ; sublime
 - dfgdfg
 - dfgdfg
 - dgdgd
-  - sdfk
+- - sdfk
   - mdkdk
   - bsbx
   - - sdgdsgk
@@ -19,3 +19,4 @@ noteapp on macbook   obsidian ; sublime
       - rkrkf
       - - kkdke
         - ksrf
+        - oeldk
