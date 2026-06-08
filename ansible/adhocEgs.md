@@ -12,7 +12,7 @@ ansible localhost -m setup -a "filter=ansible_hostname" -c local
 ansible gcpvms -i inventori.ini -m setup -a "filter=ansible_mounts"    
 ansible all -i inventory.ini -m shell -a "df -h"    
 ansible gcpvms -i inventory.ini -m shell -a "df -h"   
-ansible all -i inventory.ini -m command -a "df -h"
+ansible all -i inventory.ini -m command -a "df -h"    
 ══════════════════════════════════════════      
 
 
