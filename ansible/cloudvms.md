@@ -13,4 +13,5 @@ usermod -aG wheel mella   (To set a user to sudo to root)
 su - username
 sudo whoami
 ```
+==setting up sshkey for passwordless login   
 
