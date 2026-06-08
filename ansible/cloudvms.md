@@ -12,6 +12,10 @@ passwd mella ; give blank or simple one
 usermod -aG wheel mella   (To set a user to sudo to root)    
 su - username
 sudo whoami
+##enable password Authentication   
+sudo vi /etc/ssh/sshd_config
+PasswordAuthentication yes
+sudo systemctl restart sshd
 ```
 ==setting up sshkey for passwordless login   
 
