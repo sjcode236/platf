@@ -23,7 +23,7 @@ check_mounts.yml in VS Code and paste the following code:
 ansible-playbook check_mounts.yml
 ```
 ══════════════════════════════════════════    
-Find ip address if hosts   
+Find ip address of hosts   
 ```
 ---
 - name: Find Localhost IP Address
