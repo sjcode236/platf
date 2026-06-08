@@ -1,6 +1,7 @@
 
 
-
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+══+════════════════════════════════════════   
 Create the python Virtual Environment  on mac  
 -Step : Create the Virtual Environment   
 cd ~/apps   
@@ -11,6 +12,8 @@ source ansible-env/bin/activate
 pip install --upgrade pip    
 pip install ansible    
 ansible --version
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+══+════════════════════════════════════════  
 
 
   
