@@ -38,6 +38,7 @@ Find ip address of localhost
       ansible.builtin.debug:
         msg: "All available IPs: {{ ansible_all_ipv4_addresses }}"
 
+# ansible-playbook   getlocalip.yml
 ```
 ══════════════════════════════════════════      
 Print filesystems on gcloud vms ;vm ips saved in inventory.ini    
