@@ -18,6 +18,9 @@ DEVOPS-TECHSTACK:-Top 25 Ansible Interview Questions & Answers | Devops Intervie
 https://www.youtube.com/watch?v=Tv-LKPFDBv0    
 MindMajix:-  Top 15 Ansible Interview Questions And Answers | Best Ansible Interview Questions    
 https://www.youtube.com/watch?v=Ql-bZmS166o    
+Neulax:- 3 Ansible interview QA (2025 Edition)    
+https://www.youtube.com/watch?v=cj6BX6MrlKs&list=PL7mmJtzxud9hVJs6_bs3l6-O92DsCbL0U&index=2   
+
 
 how to drirect and task to execute at specific server from a task in paly  
    delegate to  
