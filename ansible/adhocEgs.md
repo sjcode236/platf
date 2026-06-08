@@ -7,6 +7,10 @@ ansible localhost -m setup -a "filter=*kernel*" -c local
 - To print hostname of local laptop, use the setup module filtered down to the hostname fact:   
 ansible localhost -m setup -a "filter=ansible_hostname" -c local    
 
+- command to list mounts on remote servers   
+ansible gcpvms -i inventory.ini -m command -a "df -h"    
+ansible all  -i inventory.ini -m command -a "df -h"
+
 
 
 - sfkpd
