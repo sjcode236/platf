@@ -1,7 +1,9 @@
 
 inventory.ini   
-[gcpvms]
-34.70.20.38     
+[gcpvms]   
+34.70.20.38   
+34.171.8.39   
+35.225.152.163  
 
 
 =on google compute vm instances ;setup user and ssh-key     
