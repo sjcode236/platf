@@ -7,8 +7,25 @@ https://www.youtube.com/watch?v=HYBFuHUQBT8
 
 
 
-Variables  
+Variables   
+You can pass variables to an Ansible playbook in several ways, but the most common and flexible method is using the --extra-vars (or -e) flag when running ansible-playbook.     
+1. Pass a single variable inline    
+ansible-playbook site.yml -e "env=production"   
+Inside your playbook, you can reference it as:  {{ env }}
+2. Pass multiple variables inline
+ansible-playbook site.yml -e "env=production version=1.2.3 debug=true"
+3. Pass variables from a JSON or YAML file
+ansible-playbook site.yml -e "@vars.json"
+Example vars.json:
+```
+{
+  "env": "production",
+  "version": "1.2.3"
+}
+```    
 
+
+  
 
 
 ```
