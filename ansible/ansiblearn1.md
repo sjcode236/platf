@@ -11,7 +11,7 @@ source ansible-env/bin/activate
 -Step 4: Upgrade Pip and Install Ansible    
 pip install --upgrade pip    
 pip install ansible    
-ansible --version
+ansible --version    
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      
 ══+════════════════════════════════════════       
 
