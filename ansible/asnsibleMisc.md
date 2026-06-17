@@ -21,4 +21,5 @@ Mastering Ansible Vault: Securely Encrypt & Decrypt Sensitive Data (Step-by-Step
 https://www.youtube.com/watch?v=etxPLclzJa0&list=PLVCgi5HZ0-Yvk3uxNptqSHxz1iyn8NoIj&index=14    
 https://www.youtube.com/watch?v=etxPLclzJa0    
 
-
+   
+──────────────────────────────────────────────────    
