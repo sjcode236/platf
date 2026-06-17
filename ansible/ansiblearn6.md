@@ -138,14 +138,7 @@ Common flags you will need:
 --check: "Dry run" mode; it shows what would change without actually changing anything.       
 ──────────────────────────────────────────────────       
 
-
-
-
-Ansible Jenkins Integration | Jenkins Pipeline script to execute Ansible Playbook     
-https://www.youtube.com/watch?v=-8jJ1BMnul4     
-How to Integrate Ansible With Jenkins    
-https://www.youtube.com/watch?v=xQ_yKp8SdDk     
-──────────────────────────────────────────────────      
+  
 
 
 
