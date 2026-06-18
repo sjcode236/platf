@@ -46,9 +46,18 @@ Simple Linux Utility for Resource Management (SLURM) is an open-source cluster m
 Learn Kubernetes using the Developer Sandbox     
  https://developers.redhat.com/learn/openshift/learn-kubernetes-using-developer-sandbox      
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   
+https://www.youtube.com/watch?v=O5USfiQ79So     
+Abhishek.Veeramalla          
+Learn Kubernetes FREE Practically -      
+All Labs page: https://kode.wiki/3RxQ3dL     
+Familiarize with environment: https://kode.wiki/4etu01y 
+Pods: https://kode.wiki/3KIMDRL   
+Replica Sets: https://kode.wiki/3RxA8Mt   
+Deployments: https://kode.wiki/4c3YUw7    
+Rolling Updates and Rollbacks: https://kode.wiki/4cpKxSo    
+Services: https://kode.wiki/45pFOhr    
 
-
-
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     
 
 
     
