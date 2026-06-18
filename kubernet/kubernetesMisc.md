@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=O5USfiQ79So
 Abhishek.Veeramalla          
 Learn Kubernetes FREE Practically -      
 All Labs page: https://kode.wiki/3RxQ3dL     
-Familiarize with environment: https://kode.wiki/4etu01y 
+Familiarize with environment: https://kode.wiki/4etu01y    
 Pods: https://kode.wiki/3KIMDRL   
 Replica Sets: https://kode.wiki/3RxA8Mt   
 Deployments: https://kode.wiki/4c3YUw7    
