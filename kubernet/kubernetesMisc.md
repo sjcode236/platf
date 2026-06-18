@@ -30,7 +30,14 @@ Kubernetes — Complete Notes   ( CloudTechDevOps  )
 https://github.com/CloudTechDevOps/Kubernetes-0730/tree/main/Day-1-Intro-installations   
 
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄        
+▀▀▀kubernetes▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     
+Setup a Free Kubernetes Cluster on Oracle Cloud    
+https://faun.pub/free-ha-multi-architecture-kubernetes-cluster-from-oracle-c66b8ce7cc37      
+=+=docker desktop to enable kubernetes? Seems the easiest way to go. You probably have docker already if you are playing with containers.    
+=+= Minikube is the simplest, fastest and closest to a real environment you can get on your dev machine.    
+=+=  https://microk8s.io/  If you want to have a working Kubnetes up in 5 minutes or less, try microk8s. 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
+
 Simple Linux Utility for Resource Management (SLURM) is an open-source cluster management and job scheduling system.    
  Slurm (Cluster Resource Manager) :-     
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      
