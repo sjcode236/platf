@@ -30,7 +30,15 @@ Kubernetes — Complete Notes   ( CloudTechDevOps  )
 https://github.com/CloudTechDevOps/Kubernetes-0730/tree/main/Day-1-Intro-installations   
 
 
-
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄        
+Simple Linux Utility for Resource Management (SLURM) is an open-source cluster management and job scheduling system.    
+ Slurm (Cluster Resource Manager) :-     
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      
+ OpenShift and Kubernetes learning       
+ https://developers.redhat.com/learn/openshift      
+Learn Kubernetes using the Developer Sandbox     
+ https://developers.redhat.com/learn/openshift/learn-kubernetes-using-developer-sandbox      
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   
 
 
 
