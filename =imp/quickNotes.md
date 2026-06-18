@@ -1,6 +1,6 @@
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
 ══════════════════════════════════════════    
-Quick Notes to move different files later  
+Quick Notes to move to different files later  
 ══════════════════════════════════════════      
 
 
