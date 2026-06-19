@@ -14,7 +14,7 @@ GCP Associate Cloud Engineer Google Certification -150 Demos
 https://www.udemy.com/course/gcp-associate-cloud-engineer-google-certification/?couponCode=MT260601G2    
 
 
-GCP GKE Terraform on Google Kubernetes Engine DevOps SRE IaC   
+GCP GKE Terraform on Google Kubernetes Engine DevOps SRE IaC  (  40 Real-World Demos to become a DevOps SRE and IaC Expert)   
 https://www.udemy.com/course/gcp-gke-terraform-on-google-kubernetes-engine-devops-sre-iac/?couponCode=MT260529G2   
 
 The Complete Terraform with Ansible Bootcamp   
