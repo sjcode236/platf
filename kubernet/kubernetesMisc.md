@@ -13,7 +13,9 @@ Kubernetes for AI: AI-Ready Clusters with Allocatable GPU
 https://www.youtube.com/watch?v=-7niUi8j8_Y    
 
 How to Set Up a GPU-Enabled Kubernetes Cluster on GKE: Step-by-Step Guide for AI & ML Workloads    
-https://www.vcluster.com/blog/gcp-gke-gpu-cluster    
+https://www.vcluster.com/blog/gcp-gke-gpu-cluster      
+Kubernetes Zero to Hero: The Complete Beginner’s Guide (2025 Edition)       
+https://www.youtube.com/watch?v=MTHGoGUFpvE    
    
 
 The ONLY Kubernetes Course You'll Ever Need [2026] | Kubernetes For DevOps + AI | Part 1   
