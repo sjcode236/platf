@@ -61,6 +61,10 @@ https://www.youtube.com/watch?v=Or-_tSnHQzA
 Create a Google Kubernetes Engine (GKE) Cluster Setup | Google Cloud Tutorial | GKE     
 https://www.youtube.com/watch?v=8iUpKcqrMZA        
 
+Day 8 | Create a GKE Cluster & Deploy Microservices App (Online Boutique)    
+https://www.youtube.com/watch?v=K9LvZDUePEc  
+
+
    
 
  
