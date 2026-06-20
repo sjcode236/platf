@@ -17,3 +17,15 @@ https://github.com/sdbjakeer/Cloud-Free-Tier-Comparisons
 
 Splunk Observability Cloud Free Edition    
 https://www.splunk.com/en_us/download/o11y-cloud-free-trial.html    
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      
+Bold (sans):    
+𝘁𝗵𝗲 𝗶𝘀 𝘁𝗵𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘀𝗲𝗰𝘁𝗶𝗼𝗻 𝗳𝗼𝗿  𝗔𝗻𝘀𝗶𝗯𝗹𝗲 𝗯𝗼𝗹𝗱 𝘁𝗲𝘅𝘁     
+Italic Bold (sans):   
+𝙩𝙝𝙚 𝙞𝙨 𝙩𝙝𝙚 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙨𝙚𝙘𝙩𝙞𝙤𝙣 𝙛𝙤𝙧  𝘼𝙣𝙨𝙞𝙗𝙡𝙚 𝙗𝙤𝙡𝙙 𝙩𝙚𝙭𝙩     
+Double-Struck:     
+𝕥𝕙𝕖 𝕚𝕤 𝕥𝕙𝕖 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕤𝕖𝕔𝕥𝕚𝕠𝕟 𝕗𝕠𝕣  𝔸𝕟𝕤𝕚𝕓𝕝𝕖 𝕓𝕠𝕝𝕕 𝕥𝕖𝕩𝕥      
+ᴛʜᴇ ɪꜱ ᴛʜᴇ ʟᴇᴀʀɴɪɴɢ ꜱᴇᴄᴛɪᴏɴ ꜰᴏʀ  ᴀɴꜱɪʙʟᴇ ʙᴏʟᴅ ᴛᴇxᴛ     
+𝐭𝐡𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐟𝐨𝐫  𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐛𝐨𝐥𝐝 𝐭𝐞𝐱𝐭    
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      
+
+
