@@ -3,4 +3,6 @@
 
 
 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐚 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐃𝐞𝐯𝐒𝐞𝐜𝐎𝐩𝐬 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞 | 𝐆𝐂𝐏 | 𝐉𝐞𝐧𝐤𝐢𝐧𝐬 | 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 | 𝐀𝐫𝐠𝐨𝐜𝐝 | 𝐇𝐞𝐥𝐦 | 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬      
-https://www.youtube.com/watch?v=XBRkFyK6D0k     
+https://www.youtube.com/watch?v=XBRkFyK6D0k       
+
+
