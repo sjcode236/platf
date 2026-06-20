@@ -50,7 +50,11 @@ Deployments: https://kode.wiki/4c3YUw7
 Rolling Updates and Rollbacks: https://kode.wiki/4cpKxSo    
 Services: https://kode.wiki/45pFOhr    
 
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      
+Create a Google Kubernetes Engine (GKE) Cluster Setup | Google Cloud Tutorial | GKE     
+https://www.youtube.com/watch?v=8iUpKcqrMZA        
+Create Google Kubernetes Engine (GKE) on GCP Using gcloud CLI | Google Cloud | GKE    
+https://www.youtube.com/watch?v=4Pke7NAuLts    
 Create GKE Cluster Using Terraform | Google Cloud     
 https://www.youtube.com/watch?v=K9IFF9AFnVI    
 Automating GCP Infrastructure using Terraform and Jenkins | Full CI/CD Pipeline    
@@ -58,8 +62,6 @@ https://www.youtube.com/watch?v=ztAWlAqUOoU
 Automate Creating GKE Cluster Using Terraform and Jenkins | Google Cloud    
 https://www.youtube.com/watch?v=Or-_tSnHQzA     
 
-Create a Google Kubernetes Engine (GKE) Cluster Setup | Google Cloud Tutorial | GKE     
-https://www.youtube.com/watch?v=8iUpKcqrMZA        
 Day 8 | Create a GKE Cluster & Deploy Microservices App (Online Boutique)    
 https://www.youtube.com/watch?v=K9LvZDUePEc  
 TravelBooking — End-to-End Multi-Microservice DevOps Project on GKE | Google Cloud     
