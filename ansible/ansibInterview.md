@@ -31,6 +31,9 @@ serial  :  2 or 10%
 
 loop vs with items   
 
-roles 
+roles  
+
+how to pass variable to playbook at runtime ;  give of variable priority on  
+-e flag on command line   
 
 
