@@ -73,7 +73,10 @@ https://medium.com/@vijaygiduthuri67/-89e2442a289f    (Medium link )
 
 Kubernetes Complete Course | From Beginner to Advanced (40+ Videos)     
 Day 1 | Kubernetes Architecture & Pods Explained in Simple Terms | Kubernetes | Pod     
-https://www.youtube.com/watch?v=QC96gRHDCZ4&list=PLO1kwrvz02GkTisqdXUZJKHPsatU3jJ6N      
+https://www.youtube.com/watch?v=QC96gRHDCZ4&list=PLO1kwrvz02GkTisqdXUZJKHPsatU3jJ6N     
+Day 2 | Kubernetes Pods & Multi-Container Pods    
+https://www.youtube.com/watch?v=jXAMy58cXTY&list=PLO1kwrvz02GkTisqdXUZJKHPsatU3jJ6N&index=2     
+
 
 
 
