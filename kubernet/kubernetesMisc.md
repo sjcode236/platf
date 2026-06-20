@@ -66,6 +66,8 @@ https://www.youtube.com/watch?v=K9LvZDUePEc
 
 TravelBooking — End-to-End Multi-Microservice DevOps Project on GKE | Google Cloud     
 https://www.youtube.com/watch?v=YKOlyaoGWe8     
+Monitoring Google Kubernetes Cluster using Prometheus & Grafana | GKE | Monitoring | Google Cloud |      
+https://www.youtube.com/watch?v=5M-lkl2EqIE     
 
    
 
