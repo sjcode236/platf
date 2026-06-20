@@ -64,6 +64,8 @@ https://www.youtube.com/watch?v=8iUpKcqrMZA
 Day 8 | Create a GKE Cluster & Deploy Microservices App (Online Boutique)    
 https://www.youtube.com/watch?v=K9LvZDUePEc  
 
+TravelBooking — End-to-End Multi-Microservice DevOps Project on GKE | Google Cloud     
+https://www.youtube.com/watch?v=YKOlyaoGWe8     
 
    
 
