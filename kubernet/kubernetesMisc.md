@@ -60,12 +60,11 @@ https://www.youtube.com/watch?v=Or-_tSnHQzA
 
 Create a Google Kubernetes Engine (GKE) Cluster Setup | Google Cloud Tutorial | GKE     
 https://www.youtube.com/watch?v=8iUpKcqrMZA        
-
 Day 8 | Create a GKE Cluster & Deploy Microservices App (Online Boutique)    
 https://www.youtube.com/watch?v=K9LvZDUePEc  
-
 TravelBooking — End-to-End Multi-Microservice DevOps Project on GKE | Google Cloud     
 https://www.youtube.com/watch?v=YKOlyaoGWe8     
+
 Monitoring Google Kubernetes Cluster using Prometheus & Grafana | GKE | Monitoring | Google Cloud |      
 https://www.youtube.com/watch?v=5M-lkl2EqIE       
 𝐌𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐆𝐊𝐄 𝐂𝐥𝐮𝐬𝐭𝐞𝐫: 𝐀 𝐒𝐭𝐞𝐩-𝐛𝐲-𝐒𝐭𝐞𝐩 𝐆𝐮𝐢𝐝𝐞 𝐭𝐨 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐏𝐫𝐨𝐦𝐞𝐭𝐡𝐞𝐮𝐬 𝐚𝐧𝐝 𝐆𝐫𝐚𝐟𝐚𝐧𝐚    
