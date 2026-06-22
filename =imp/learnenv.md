@@ -29,7 +29,22 @@ ansible --version
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄       
 
 terraform install on macbook   
-cd /Uesers/3terra
+1) download terrafrom zip for macos , AMD64 version  from  https://developer.hashicorp.com/terraform/install
+   ```
+   cp ~/Downloads/terraform_1.15.6_darwin_amd64.zip  /Users/3terra    
+   cd /Users/3terra
+   unzip terraform_1.15.6_darwin_amd64.zip
+   chmod +x terraform
+   in .profile add path
+   vi ~/.profile
+   #path adding
+   export PATH="/Users/3terra:$PATH"
+   ```
+   
+   
+    
+
+
 
 
 
