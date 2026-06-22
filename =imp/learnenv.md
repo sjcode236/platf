@@ -26,7 +26,11 @@ source ansible-env/bin/activate
 pip install --upgrade pip    
 pip install ansible    
 ansible --version    
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄       
+
+terraform install on macbook   
+cd /Uesers/3terra
+
 
 
 
