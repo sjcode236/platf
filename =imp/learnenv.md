@@ -13,6 +13,13 @@ Double-Struck:
 𝐭𝐡𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐟𝐨𝐫  𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐛𝐨𝐥𝐝 𝐭𝐞𝐱𝐭      
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀        
 
+download and install virtualbox in  macos  
+https://www.virtualbox.org/wiki/Downloads      
+
+download centos 9   
+
+
+
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
 ansible install on python environment    
 ══+════════════════════════════════════════     
