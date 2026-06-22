@@ -1,7 +1,7 @@
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   
 ══+════════════════════════════════════════     
-learning env    
+learning env     
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      
 Bold (sans):    
 𝘁𝗵𝗲 𝗶𝘀 𝘁𝗵𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝘀𝗲𝗰𝘁𝗶𝗼𝗻 𝗳𝗼𝗿  𝗔𝗻𝘀𝗶𝗯𝗹𝗲 𝗯𝗼𝗹𝗱 𝘁𝗲𝘅𝘁     
@@ -10,8 +10,24 @@ Italic Bold (sans):
 Double-Struck:     
 𝕥𝕙𝕖 𝕚𝕤 𝕥𝕙𝕖 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕤𝕖𝕔𝕥𝕚𝕠𝕟 𝕗𝕠𝕣  𝔸𝕟𝕤𝕚𝕓𝕝𝕖 𝕓𝕠𝕝𝕕 𝕥𝕖𝕩𝕥      
 ᴛʜᴇ ɪꜱ ᴛʜᴇ ʟᴇᴀʀɴɪɴɢ ꜱᴇᴄᴛɪᴏɴ ꜰᴏʀ  ᴀɴꜱɪʙʟᴇ ʙᴏʟᴅ ᴛᴇxᴛ     
-𝐭𝐡𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐟𝐨𝐫  𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐛𝐨𝐥𝐝 𝐭𝐞𝐱𝐭 
+𝐭𝐡𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐟𝐨𝐫  𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐛𝐨𝐥𝐝 𝐭𝐞𝐱𝐭    
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀        
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+ansible install on python environment    
+══+════════════════════════════════════════     
+Create the python Virtual Environment  on mac  
+-Step : Create the Virtual Environment   
+cd ~/apps   
+python3 -m venv ansible-env    
+-Step : Activate the Environment    
+source ansible-env/bin/activate    
+-Step 4: Upgrade Pip and Install Ansible    
+pip install --upgrade pip    
+pip install ansible    
+ansible --version    
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      
+
 
 
 
