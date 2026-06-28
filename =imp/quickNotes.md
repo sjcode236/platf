@@ -19,5 +19,13 @@ Splunk Observability Cloud Free Edition
 https://www.splunk.com/en_us/download/o11y-cloud-free-trial.html    
    
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      
+27-minute workshop on how to actually do prompts for Claude.     
+https://x.com/vicky_grok/status/2071209343043952947?s=20      
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     
+
+
+
+
+
 
 
