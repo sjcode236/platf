@@ -11,6 +11,7 @@ Double-Struck:
 𝕥𝕙𝕖 𝕚𝕤 𝕥𝕙𝕖 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕤𝕖𝕔𝕥𝕚𝕠𝕟 𝕗𝕠𝕣  𝔸𝕟𝕤𝕚𝕓𝕝𝕖 𝕓𝕠𝕝𝕕 𝕥𝕖𝕩𝕥      
 ᴛʜᴇ ɪꜱ ᴛʜᴇ ʟᴇᴀʀɴɪɴɢ ꜱᴇᴄᴛɪᴏɴ ꜰᴏʀ  ᴀɴꜱɪʙʟᴇ ʙᴏʟᴅ ᴛᴇxᴛ     
 𝐭𝐡𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐟𝐨𝐫  𝐀𝐧𝐬𝐢𝐛𝐥𝐞 𝐛𝐨𝐥𝐝 𝐭𝐞𝐱𝐭      
+Unicode text generator:- https://lingojam.com/BoldTextGenerator      
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀        
 
 download and install virtualbox in  macos  
