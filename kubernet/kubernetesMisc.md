@@ -99,9 +99,14 @@ Run Spark and Hadoop faster with Dataproc
 https://www.youtube.com/watch?v=shzKmZ6Yqtk    
 How to Run Spark Job in Google Cloud Dataproc and Cloud Composer     
 https://www.youtube.com/watch?v=XriOHFKrzLM      
-══════════════════════════════════════════     
+══════════════════════════════════════════      
+How To Set Up Jupyter Notebook with Vertex AI Workbench on Google Cloud      
+https://www.youtube.com/watch?v=akAQurpGfcc    
+══════════════════════════════════════════       
 
- 
+
+
+
 
 
 
