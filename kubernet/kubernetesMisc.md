@@ -80,11 +80,16 @@ https://www.youtube.com/watch?v=QC96gRHDCZ4&list=PLO1kwrvz02GkTisqdXUZJKHPsatU3j
 Day 2 | Kubernetes Pods & Multi-Container Pods    
 https://www.youtube.com/watch?v=jXAMy58cXTY&list=PLO1kwrvz02GkTisqdXUZJKHPsatU3jJ6N&index=2     
 
+══════════════════════════════════════════   
+
+Apache Spark on Kubernetes Explained (Hands-On Demo)    
+https://www.youtube.com/watch?v=P5UKwFYtvj0     
+Apache Spark on Kubernetes Explained (Docker + K8s Hands-On Tutorial)    
+https://www.youtube.com/watch?v=DilN7TWkrG4   Cloud guru     
 
 
 
-
-
+══════════════════════════════════════════   
    
 
  
