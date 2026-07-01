@@ -83,14 +83,23 @@ https://www.youtube.com/watch?v=jXAMy58cXTY&list=PLO1kwrvz02GkTisqdXUZJKHPsatU3j
 ══════════════════════════════════════════   
 
 Apache Spark on Kubernetes Explained (Hands-On Demo)    
-https://www.youtube.com/watch?v=P5UKwFYtvj0     
+https://www.youtube.com/watch?v=P5UKwFYtvj0     Cloud guru      
 Apache Spark on Kubernetes Explained (Docker + K8s Hands-On Tutorial)    
-https://www.youtube.com/watch?v=DilN7TWkrG4   Cloud guru     
+https://www.youtube.com/watch?v=DilN7TWkrG4   Cloud guru       
+
+Run Apache Spark Jobs on Kubernetes with Spark Operator and Airflow 3.0     
+https://www.youtube.com/watch?v=rIlNF1z18_s    
 
 
 
-══════════════════════════════════════════   
-   
+
+
+══════════════════════════════════════════      
+Run Spark and Hadoop faster with Dataproc      
+https://www.youtube.com/watch?v=shzKmZ6Yqtk    
+How to Run Spark Job in Google Cloud Dataproc and Cloud Composer     
+https://www.youtube.com/watch?v=XriOHFKrzLM      
+══════════════════════════════════════════     
 
  
 
