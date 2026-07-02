@@ -30,5 +30,5 @@ https://www.udemy.com/course/terraform-101-azure-edition/
 How to Deploy and Manage Redis Databases on AWS Using Terraform     
 https://redis.io/tutorials/operate/provisioning/terraform/      
 
-
-
+Terraform install Tools :-   
+https://github.com/stacksimplify/terraform-on-google-cloud/tree/main/01-Terraform-Install-Tools         
