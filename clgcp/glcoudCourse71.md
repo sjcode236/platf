@@ -27,7 +27,8 @@ select project gcplearn8 -> search compute engine -> create instance
 =enable display Device   
 =create instance ; open ssh window in browser     
 =upload webserver-install.sh   
-https://github.com/stacksimplify/google-cloud-certifications/blob/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-01-VMInstance-Basics/webserver-install.sh =# Download directly from GitHub raw URL    
+https://github.com/stacksimplify/google-cloud-certifications/blob/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-01-VMInstance-Basics/webserver-install.sh   
+=# Download directly from GitHub raw URL    
 wget https://raw.githubusercontent.com/stacksimplify/google-cloud-certifications/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-01-VMInstance-Basics/webserver-install.sh   
 =# Or with curl   
 curl -O https://raw.githubusercontent.com/stacksimplify/google-cloud-certifications/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-01-VMInstance-Basics/webserver-install.sh    
