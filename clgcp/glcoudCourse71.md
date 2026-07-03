@@ -40,6 +40,10 @@ $ curl localhost  (quering the webserver on local host )
 01-01-VMInstance-Basics   
 https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-01-VMInstance-Basics    
 ══+════════════════════════════════════════     
+suspended state    
+a suspended state means your VM is paused.      
+a suspended instance preserve the OS Memoy , device state and application state; Memory state saved to disk.     
+persistant disk + static IP  will be charged ; storage required for storing memory state, system state will be charged    
 
 
 
