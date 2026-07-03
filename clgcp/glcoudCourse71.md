@@ -12,7 +12,7 @@ https://github.com/stacksimplify/terraform-on-google-cloud/tree/main/02-Terrafor
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
 ══+════════════════════════════════════════     
 **Regions and Availbility Zones**      
-Physical location:-    
+a region is a specific geographical location :         
 Each region represents a geographic area, like us-west1 (Oregon), europe-west3 (Frankfurt), or asia-southeast1 (Singapore).
 Made of zones     
 Every region contains 3 or more zones. Zones are isolated locations within a region. Example:     
