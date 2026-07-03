@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=cGuyrANVi4A
 MCP vs API: Why traditional APIs are failing AI agents      
 https://www.youtube.com/watch?v=185XGEMefgc    
 
-
+Ultimate DevOps Real-World Project Implementation AWS Cloud      
+https://www.udemy.com/course/aws-eks-kubernetes-karpenter-devops-production/?couponCode=KEEPLEARNING     
  
    
