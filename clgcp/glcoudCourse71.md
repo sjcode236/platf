@@ -9,6 +9,8 @@ https://www.udemy.com/course/gcp-associate-cloud-engineer-google-certification  
 terraform-on-google-cloud  (github repo)       
 https://github.com/stacksimplify/terraform-on-google-cloud/tree/main/02-Terraform-Commands     
 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+══+════════════════════════════════════════     
 **Regions and Availbility Zones**      
 Physical location:-    
 Each region represents a geographic area, like us-west1 (Oregon), europe-west3 (Frankfurt), or asia-southeast1 (Singapore).
