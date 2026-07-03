@@ -8,7 +8,8 @@ inventory.ini
 
 =on google compute vm instances ;setup user and ssh-key     
 ```
-open webssh ; sudo su -  (su to root )    
+open webssh on cloud browser ;
+sudo su -  (su to root )    
 useradd mella    
 passwd mella ; give blank or simple one   
 usermod -aG wheel mella   (To set a user to sudo to root)    
