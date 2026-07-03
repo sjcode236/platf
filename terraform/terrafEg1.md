@@ -2,12 +2,14 @@
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   
 ════════════════════════════════════════════     
 install terrafrom on mac      
+makdir dir   3terra   
+download  terraform_1.15.6_darwin_amd64.zip  and unzip it    
+in .profile add path to terraform file     
+$ terraform -v     
 
 
 
-asdfad
-
-════hello world local file════════════════════════════════════════     
+════make hello world local file════════════════════════════════════════     
 ```
 mkdir ./helloworld
 cd  helloworld
