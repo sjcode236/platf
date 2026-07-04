@@ -52,10 +52,10 @@ it will deleted the VM ; also the attached bootdisk for this VM
 01-02-VMInstance-with-Startup-Script     
 https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-02-VMInstance-with-Startup-Script     
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
-Cloud Shell and gcloud CLI     
-Google cloud shell is online development and operations environment    
-
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      
+01-03-Cloud-Shell-and-gcloud-cli ; Cloud Shell and gcloud CLI     
+Google cloud shell is online development and operations environment     
+https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-03-Cloud-Shell-and-gcloud-cli     
 
 
 
