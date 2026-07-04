@@ -128,7 +128,10 @@ Use CREATE SIMILAR option to create a clone of instance template ;cannot modify 
 https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-05-VMInstance-with-MachineImages     
 A machine image contains a VM’s properties, metadata, permissions, and data from all its attached disks.    
 You can use a machine image to create, backup, or restore a VM.     
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      
+01-06  Live Migration ; Create VM instance with Spot VMs     
+SpotVms:- Spotvms are  Google's spare/excess compute capacity VMs; Google can terminate or preempt them with a 30-second warning whenever the capacity is needed for regular on-demand workloads. Google sells it at huge discounts.    
+
 
 
 
