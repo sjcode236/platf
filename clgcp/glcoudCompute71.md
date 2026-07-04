@@ -123,9 +123,12 @@ gcloud compute instances delete demo3-vm-gcloud --zone=us-central1-a
 https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-04-VMInstance-with-InstanceTemplate    
 can create Template from scratch ; from existing template ; from existing VM instance ; 
 Use CREATE SIMILAR option to create a clone of instance template ;cannot modify a template ; only clone and update to create new template   
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      
+01-05-VM instance with Machine Images     
+https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-05-VMInstance-with-MachineImages     
+A machine image contains a VM’s properties, metadata, permissions, and data from all its attached disks.    
+You can use a machine image to create, backup, or restore a VM.     
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
-══+════════════════════════════════════════      
-
 
 
 
