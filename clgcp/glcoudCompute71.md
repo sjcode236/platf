@@ -132,6 +132,9 @@ You can use a machine image to create, backup, or restore a VM.
 01-06  Live Migration ; Create VM instance with Spot VMs     
 SpotVms:- Spotvms are  Google's spare/excess compute capacity VMs; Google can terminate or preempt them with a 30-second warning whenever the capacity is needed for regular on-demand workloads. Google sells it at huge discounts.    
 =no live migration or no automatic restart option availble for spotVMs    
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄      
+01-07-GPUs and GPU attached Vms     
+https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-07-VMInstance-Attach-GPU     
 
 
 
