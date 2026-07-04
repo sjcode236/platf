@@ -44,6 +44,14 @@ suspended state
 a suspended state means your VM is paused.      
 a suspended instance preserve the OS Memoy , device state and application state; Memory state saved to disk.     
 persistant disk + static IP  will be charged ; storage required for storing memory state, system state will be charged    
+Reset:-   
+OS forced to reboot ; Like pulling the power cord + plugging back in. No graceful shutdown      
+Delete :-  
+it will deleted the VM ; also the attached bootdisk for this VM     
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄        
+01-02-VMInstance-with-Startup-Script     
+https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-02-VMInstance-with-Startup-Script     
+
 
 
 
