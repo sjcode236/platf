@@ -56,7 +56,15 @@ https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-E
 01-03-Cloud-Shell-and-gcloud-cli ; Cloud Shell and gcloud CLI     
 Google cloud shell is online development and operations environment     
 https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-03-Cloud-Shell-and-gcloud-cli    
-=gcloud CLI commands can run in Google Cloud Shell  or client installed on laptop    
+=gcloud CLI commands can run in Google Cloud Shell  or client installed on laptop   
+
+Step-02: Create VM using gcloud CLI    
+TAGS: Tags allow network firewall rules and routes to be applied to specified VM instances   
+Important Note: Upload webserver-install.sh to Google Cloud shell if running gcloud commands on cloud shell    
+[gcloud Documentation] (https://docs.cloud.google.com/sdk/gcloud/reference/compute/instances)      
+
+
+
 
 
 
