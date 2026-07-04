@@ -10,7 +10,7 @@ terraform-on-google-cloud  (github repo)
 https://github.com/stacksimplify/terraform-on-google-cloud/tree/main/02-Terraform-Commands     
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
-══+════════════════════════════════════════     
+══+════════════════════════════════════════      
 **Regions and Availbility Zones**      
 a region is a specific geographical location :         
 Each region represents a geographic area, like us-west1 (Oregon), europe-west3 (Frankfurt), or asia-southeast1 (Singapore).
@@ -122,7 +122,10 @@ gcloud compute instances delete demo3-vm-gcloud --zone=us-central1-a
 01-04-VM instance with Instance Template       
 https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-04-VMInstance-with-InstanceTemplate    
 can create Template from scratch ; from existing template ; from existing VM instance ; 
-Use CREATE SIMILAR option to create a clone of instance template ;cannot modify a template ; only clone and update to create new template     
+Use CREATE SIMILAR option to create a clone of instance template ;cannot modify a template ; only clone and update to create new template   
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+══+════════════════════════════════════════      
+
 
 
 
