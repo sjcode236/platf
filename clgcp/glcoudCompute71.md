@@ -27,7 +27,7 @@ select project gcplearn8 -> search compute engine -> create instance
 =enable display Device   
 =create instance ; open ssh window in browser     
 =upload webserver-install.sh    
-    https://github.com/stacksimplify/google-cloud-certifications/blob/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-01-VMInstance-Basics/webserver-install.sh    
+ [webserver-install.sh]https://github.com/stacksimplify/google-cloud-certifications/blob/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-01-VMInstance-Basics/webserver-install.sh    
 =# Download directly from GitHub raw URL    
 wget https://raw.githubusercontent.com/stacksimplify/google-cloud-certifications/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-01-VMInstance-Basics/webserver-install.sh   
 =# Or with curl   
@@ -118,6 +118,18 @@ gcloud compute instances update demo3-vm-gcloud \
 # Delete VM
 gcloud compute instances delete demo3-vm-gcloud --zone=us-central1-a
 ```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+01-04-VM instance with Instance Template       
+https://github.com/stacksimplify/google-cloud-certifications/tree/main/Compute-Engine/01-Compute-Engine-VM-Instances/01-04-VMInstance-with-InstanceTemplate    
+can create Template from scratch ; from existing template ; from existing VM instance ; 
+Use CREATE SIMILAR option to create a clone of instance template ;cannot modify a template ; only clone and update to create new template     
+
+
+
+
+
+
+
 
 
 
