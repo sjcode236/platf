@@ -86,7 +86,7 @@ gcloud compute instances list --format='table(name,status,tags.list())'
 # To list instances tagged with a specific tag, tag1, run:
 gcloud compute instances list --filter='tags:http-server'
 ```
-Step-03: Stop and Start a VM Instance    
+**Step-03: Stop and Start a VM Instance**  ══+════════════════════════════════════════         
 ```
 # Stop VM Instance
 gcloud compute instances stop demo3-vm-gcloud --zone=us-central1-a
@@ -96,7 +96,7 @@ gcloud compute instances list --filter='name:demo3-vm-gcloud'
 gcloud compute instances start demo3-vm-gcloud --zone=us-central1-a
 gcloud compute instances list --filter='name:demo3-vm-gcloud'
 ```
-Step-04: Update VM using gcloud CLI    
+**Step-04: Update VM using gcloud CLI**══+════════════════════════════════════════         
 ```
 # Update VM: Enable deletion protection
 gcloud compute instances update demo3-vm-gcloud \
