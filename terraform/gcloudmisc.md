@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=lMaZnZldxcE&list=PLLrA_pU9-Gz2DaQDcY5g9aYczmipBQ
 
 
 Terraform GCP Tutorial (Getting Started with Google Cloud Platform)     
-https://www.youtube.com/watch?v=t6TxyALn05Y    Anton Putra     
+https://www.youtube.com/watch?v=t6TxyALn05Y  ( Anton Putra )      
 https://github.com/antonputra/tutorials/tree/238/lessons/235   (codes )      
 
 Create GKE Cluster using Terraform    
