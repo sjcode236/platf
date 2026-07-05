@@ -26,5 +26,11 @@ Create GKE Cluster using Terraform
 https://www.youtube.com/watch?v=YIENf3I0aRE  ( Anton Putra )      
 https://github.com/antonputra/tutorials/tree/238/lessons/238/terraform      
 
+Terraform Ansible Integration | Terraform Ansible AWS Example?   ( Anton Putra )        
+https://github.com/antonputra/tutorials/tree/238/lessons/014     
+
+
+
+
 
 
