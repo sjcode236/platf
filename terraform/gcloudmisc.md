@@ -29,6 +29,14 @@ https://github.com/antonputra/tutorials/tree/238/lessons/238/terraform
 Terraform Ansible Integration | Terraform Ansible AWS Example?   ( Anton Putra )        
 https://github.com/antonputra/tutorials/tree/238/lessons/014     
 
+Deploying GCP VPC, Subnet, Firewall & Compute Engine Using Terraform (vijay giduthuri)   
+https://medium.com/@vijaygiduthuri67/deploying-gcp-vpc-subnet-firewall-compute-engine-using-terraform-69b324acae7e    
+
+
+
+
+
+
 
 
 
