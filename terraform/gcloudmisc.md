@@ -18,4 +18,6 @@ Creating an ETL Data Pipeline on Google Cloud with Cloud Data Fusion & Airflow
 https://www.youtube.com/watch?v=lMaZnZldxcE&list=PLLrA_pU9-Gz2DaQDcY5g9aYczmipBQ_Ek    
 
 
-
+Terraform GCP Tutorial (Getting Started with Google Cloud Platform)     
+https://www.youtube.com/watch?v=t6TxyALn05Y    Anton Putra     
+https://github.com/antonputra/tutorials/tree/238/lessons/235   (codes )      
