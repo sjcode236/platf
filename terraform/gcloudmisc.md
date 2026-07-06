@@ -53,6 +53,9 @@ https://www.youtube.com/watch?v=Or-_tSnHQzA&t=64s
 Create a GCP Virtual Machine Using Terraform | Step-by-Step Tutorial | GCP | Terraform | (vijay giduthuri)    
 https://www.youtube.com/watch?v=pakXHs9dOok    
 
+Creating and deleting GKE Clusters in GCP using Terraform (Kavitha Suresh Kumar; 6 mins)     
+https://www.youtube.com/watch?v=OlXtof4HykQ&t=260s     
+
 
 
 
