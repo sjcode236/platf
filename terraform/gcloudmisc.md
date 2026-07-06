@@ -32,6 +32,11 @@ https://github.com/antonputra/tutorials/tree/238/lessons/014
 Deploying GCP VPC, Subnet, Firewall & Compute Engine Using Terraform (vijay giduthuri)   
 https://medium.com/@vijaygiduthuri67/deploying-gcp-vpc-subnet-firewall-compute-engine-using-terraform-69b324acae7e    
 
+Terraform Cloud tutorial: Automate creating a GKE cluster with Infrastructure as Code  ( DevsOperative )    
+https://www.youtube.com/watch?v=peLWZXDM_eU&t=1112s      
+
+
+
 
 
 
