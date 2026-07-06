@@ -24,14 +24,22 @@ https://github.com/antonputra/tutorials/tree/238/lessons/235   (codes )
 
 Create GKE Cluster using Terraform    
 https://www.youtube.com/watch?v=YIENf3I0aRE  ( Anton Putra )      
-https://github.com/antonputra/tutorials/tree/238/lessons/238/terraform      
+https://github.com/antonputra/tutorials/tree/238/lessons/238/terraform (github code )        
 
 How to Create GKE Cluster Using TERRAFORM from Scratch? (GCP Shared VPC | Terraform GCP Kubernetes)    ( Anton Putra )     
 https://www.youtube.com/watch?v=XTcos7s0iDo&t=28s    
 https://github.com/antonputra/tutorials/tree/main/lessons/069 (git code )      
+How to Create GKE Cluster Using TERRAFORM? (Google Kubernetes Engine & Workload Identity)  ( Anton Putra )     
+https://www.youtube.com/watch?v=X_IK0GBbBTw    
+
 
 Terraform Ansible Integration | Terraform Ansible AWS Example?   ( Anton Putra )        
 https://github.com/antonputra/tutorials/tree/238/lessons/014     
+
+How to Manage Secrets in Terraform? ( Anton Putra )     
+https://www.youtube.com/watch?v=3N0tGKwvBdA    
+Terraform Tips & Tricks: loops, if-statements, and more   
+https://www.youtube.com/watch?v=7S94oUTy2z4    
 
 Terraform Cloud tutorial: Automate creating a GKE cluster with Infrastructure as Code  ( DevsOperative )    
 https://www.youtube.com/watch?v=peLWZXDM_eU&t=1112s      
