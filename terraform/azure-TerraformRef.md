@@ -6,8 +6,7 @@ https://www.udemy.com/share/10571S3@6uR08gSTgUH9K9y5F84mkoteuWY7Pdw1wFZL614oWOq3
  
 Terraform 101: The Ultimate Hands-On Guide [Azure Edition]  ; Mark Tinderholt      
 https://www.udemy.com/course/terraform-101-azure-edition/      
-
-
+https://github.com/markti/udemy-terraform-101-azure   gitrepo for course 
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
 A Simple "Hello World" Example :- To get started, you create a file named main.tf 
