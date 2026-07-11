@@ -10,6 +10,7 @@ Step 1: Connect Grafana to Prometheus (Add Data Source)
   4. Select Prometheus from the list.
   5. In the Connection section, enter your Prometheus URL (e.g., http://localhost:9090 or http://<your-prometheus-ip>:9090).
   6. Scroll to the bottom and click Save & test. You should see a green checkmark saying "Data source is working".   
+
 Step 2: Use a Pre-built Node Exporter Dashboard (Recommended)
 - 
 
