@@ -12,9 +12,14 @@ Node Exporter:-
 - Data Flow := Exposes an HTTP /metrics endpoint for Prometheus to pull.
 
 Prometheus :-
-- Primary Role:= Scrape, store, query, and alert on metrics.      
-- Execution := Runs centrally as a server or cluster application.
-- Storage := Stateful; stores data over time using a time-series database.
-- Data Flow := Initiates the scrape and saves the data.
+- Primary Role:= Scrape, store, query, and alert on metrics.         
+- Execution := Runs centrally as a server or cluster application.     
+- Storage := Stateful; stores data over time using a time-series database.     
+- Data Flow := Initiates the scrape and saves the data.     
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+══+════════════════════════════════════════       
+Prometheus, Node Exporter & Grafana Setup on Linux | Complete Monitoring Stack with systemd    
+https://www.youtube.com/watch?v=sGMXsUTEVr0     
 
-  
+
+
