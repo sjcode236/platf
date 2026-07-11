@@ -9,7 +9,8 @@ Node Exporter:-
 - Primary Role:= Collect hardware and OS metrics (CPU, RAM, disk).   
 - Execution := Runs as a lightweight agent on the target machine.
 - Storage := Stateless; only displays current metrics in real-time.
-- Data Flow := Exposes an HTTP /metrics endpoint for Prometheus to pull.    
+- Data Flow := Exposes an HTTP /metrics endpoint for Prometheus to pull.
+
 Prometheus :-
 - Primary Role:= Scrape, store, query, and alert on metrics.      
 - Execution := Runs centrally as a server or cluster application.
