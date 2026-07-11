@@ -5,4 +5,14 @@ Node Exporter (The Collector): Acts as your server's "sensors." It reads current
 
 **Prometheus (The Collector & Database):**  Acts as the central "brain." It goes out to your servers at regular intervals, pulls (scrapes) the data from Node Exporter, stores it historically as a time-series database, and allows you to query it for alerts and dashboards.     
 
-
+Node Exporter:-    
+- Primary Role:= Collect hardware and OS metrics (CPU, RAM, disk).   
+- Execution := Runs as a lightweight agent on the target machine.
+- Storage := Stateless; only displays current metrics in real-time.
+- Data Flow := Exposes an HTTP /metrics endpoint for Prometheus to pull.
+Prometheus :-
+- Primary Role:= Scrape, store, query, and alert on metrics.      
+- Execution := Runs centrally as a server or cluster application.
+- - Storage := Stateful; stores data over time using a time-series database.
+  - sdasd =alksflkadsj
+- Data Flow := Initiates the scrape and saves the data.    
