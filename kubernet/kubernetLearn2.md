@@ -16,3 +16,15 @@ kube-controller-manager: Runs the core background control loops (controllers) th
 
 
 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
+══+════════════════════════════════════════     
+Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class    
+https://www.youtube.com/watch?v=0swOh5C3OVM   ( TechWorld with Nana  )    
+Day 29/40 Kubernetes Volume Simplified | Persistent Volume, Persistent Volume Claim & Storage Class     
+https://www.youtube.com/watch?v=2NzYX8_lX_0      
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
+══+════════════════════════════════════════      
+
+
+
+
