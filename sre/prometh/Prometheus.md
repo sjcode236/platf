@@ -16,11 +16,20 @@ Prometheus :-
 - Execution := Runs centrally as a server or cluster application.     
 - Storage := Stateful; stores data over time using a time-series database.     
 - Data Flow := Initiates the scrape and saves the data.     
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+ 
+**How They Work Together (The Architecture Flow)**    
+1. Collection: Node Exporter sits on your server, reads local system files (like /proc and /sys in Linux), and translates hardware data into a human-readable text format.   
+2. Exposition: It serves this text on an HTTP endpoint (usually http://<your-server-ip>:9100/metrics).
+3. Scraping: The Prometheus Server sends an HTTP request to that endpoint every few seconds to grab the latest numbers.
+4. Storage & Querying: Prometheus saves that snapshot into its database, where you can then query it using its language, PromQL   
 
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
 ══+════════════════════════════════════════       
 Prometheus, Node Exporter & Grafana Setup on Linux | Complete Monitoring Stack with systemd    
 https://www.youtube.com/watch?v=sGMXsUTEVr0   (Techi Nik)   
+watch video and type the steps    
+══+════════════════════════════════════════  
+
 
 
 
