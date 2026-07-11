@@ -13,6 +13,7 @@ Node Exporter:-
 Prometheus :-
 - Primary Role:= Scrape, store, query, and alert on metrics.      
 - Execution := Runs centrally as a server or cluster application.
-- - Storage := Stateful; stores data over time using a time-series database.
-  - sdasd =alksflkadsj
-- Data Flow := Initiates the scrape and saves the data.    
+- Storage := Stateful; stores data over time using a time-series database.
+- Data Flow := Initiates the scrape and saves the data.
+
+  
