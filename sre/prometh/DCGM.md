@@ -34,8 +34,24 @@ Step 3: Import the Official NVIDIA Dashboard in Grafana
 6. Click Import.
     You will see live panels displaying GPU Temperature, Power Usage, VRAM allocation, and SM (streaming multiprocessor) Utilization.
 7. 7
-8. 
+
+Step 4: Build a Custom Grafana Chart (Manual)    
+If you want to build your own custom panel (e.g., tracking a specific metric like GPU Temperature over time), follow these steps:    
+1. Open your Grafana dashboard, click Add, and choose Visualization.
+2. Select your Prometheus data source.
+3. In the Query tab below the chart preview, choose Code mode (instead of Builder) so you can type PromQL.
+4. Input one of these standard DCGM PromQL expressions into the query box
+
+Useful DCGM PromQL Examples:   
+=GPU Utilization (%): DCGM_FI_DEV_GPU_UTIL     
+=GPU Temperature (°C): DCGM_FI_DEV_GPU_TEMP    
+=VRAM Used (Bytes): DCGM_FI_DEV_FB_USED    
+=Power Usage (Watts): DCGM_FI_DEV_POWER_USAGE    
  
+  
+
+
+
 
    
 
