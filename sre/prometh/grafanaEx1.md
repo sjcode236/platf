@@ -26,9 +26,9 @@ Your dashboard will instantly populate with live graphs showing your server's CP
 Step 3: How Grafana Asks Prometheus for Data (The Logic)    
 If you ever want to create your own custom graph panel, Grafana uses PromQL (Prometheus Query Language) to pull the data.    
 When you click "Add Visualization" inside a dashboard, Grafana will open a query builder. You type a PromQL metric name into the query box, and Prometheus sends back the numbers.    
-Common Node Exporter PromQL Examples:
-=Total RAM Used %: (node_memory_MemTotal_bytes - node_memory_MemAvailable_bytes) / node_memory_MemTotal_bytes * 100
-=CPU Idle %: sum by (instance) (rate(node_cpu_seconds_total{mode="idle"}[5m]))
+Common Node Exporter PromQL Examples:    
+=Total RAM Used %: (node_memory_MemTotal_bytes - node_memory_MemAvailable_bytes) / node_memory_MemTotal_bytes * 100   
+=CPU Idle %: sum by (instance) (rate(node_cpu_seconds_total{mode="idle"}[5m]))    
 =Disk Space Usage %: 100 - ((node_filesystem_avail_bytes{mountpoint="/"} * 100) / node_filesystem_size_bytes{mountpoint="/"})    
 
 
