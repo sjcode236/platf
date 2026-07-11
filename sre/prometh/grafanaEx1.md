@@ -30,6 +30,8 @@ Common Node Exporter PromQL Examples:
 =Total RAM Used %: (node_memory_MemTotal_bytes - node_memory_MemAvailable_bytes) / node_memory_MemTotal_bytes * 100   
 =CPU Idle %: sum by (instance) (rate(node_cpu_seconds_total{mode="idle"}[5m]))    
 =Disk Space Usage %: 100 - ((node_filesystem_avail_bytes{mountpoint="/"} * 100) / node_filesystem_size_bytes{mountpoint="/"})    
+══+════════════════════════════════════════     
+
 
 
 
