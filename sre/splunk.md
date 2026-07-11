@@ -33,8 +33,7 @@ Prometheus, and Grafana?While Splunk doesn't need Prometheus to talk to Grafana,
    - Splunk handles logs and security events (text data, application stack traces, access logs) because it excels at searching text.
    - Grafana sits on top of both of them, acting as a single pane of glass showing metrics from Prometheus and logs from Splunk side-by-side on the same screen.
 
-2.  Splunk can acting as the long-term storage for Prometheus
-    Some organizations use Prometheus to scrape raw metrics locally, but then use Prometheus's Remote Write feature to automatically send those metrics into Splunk (using Splunk's Metrics Index). In this case, Grafana would pull the historical metrics directly out of Splunk.
+2.  Splunk can acting as the long-term storage for Prometheus := Some organizations use Prometheus to scrape raw metrics locally, but then use Prometheus's Remote Write feature to automatically send those metrics into Splunk (using Splunk's Metrics Index). In this case, Grafana would pull the historical metrics directly out of Splunk.
 3.  
 
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
