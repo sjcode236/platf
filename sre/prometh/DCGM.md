@@ -26,6 +26,18 @@ scrape_configs:
 
 Step 3: Import the Official NVIDIA Dashboard in Grafana   
 =NVIDIA provides a pre-built, production-grade Grafana dashboard designed specifically for DCGM Exporter.   
+1. Go to your Grafana web interface.    
+2. In the left navigation bar, click the Plus (+) icon or Dashboards, and select Import.     
+3. In the "Import via grafana.com" field, paste the official NVIDIA Dashboard ID: 12239     
+4. Click Load.
+5. On the options page, select your Prometheus instance from the data source dropdown menu.
+6. Click Import.
+    You will see live panels displaying GPU Temperature, Power Usage, VRAM allocation, and SM (streaming multiprocessor) Utilization.
+7. 7
+8. 
+ 
+
+   
 
 
   
