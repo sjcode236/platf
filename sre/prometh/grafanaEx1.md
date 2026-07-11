@@ -15,5 +15,9 @@ Step 2: Use a Pre-built Node Exporter Dashboard (Recommended)
 - 
 
 
+ green checkmark sa
+ --
+
+
 
 
