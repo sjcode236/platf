@@ -1,7 +1,7 @@
 
 **- To visualize your Prometheus and Node Exporter metrics, Grafana sits on top of Prometheus as the user interface**  
-- Think of Grafana as the dashboard/display screen of your car, while Prometheus remains the computer storing the data. Grafana does not talk to Node Exporter directly; it asks Prometheus for the data and turns it into graphs
-
+- Think of Grafana as the dashboard/display screen of your car, while Prometheus remains the computer storing the data. Grafana does not talk to Node Exporter directly; it asks Prometheus for the data and turns it into graphs     
+══+════════════════════════════════════════    
 Step 1: Connect Grafana to Prometheus (Add Data Source)     
 - Before making dashboards, you must tell Grafana where your Prometheus server is living.    
 - 1. Open your Grafana web interface (usually http://localhost:3000).    
@@ -23,7 +23,12 @@ Step 2: Use a Pre-built Node Exporter Dashboard (Recommended)
 8. Click Import.
 Your dashboard will instantly populate with live graphs showing your server's CPU usage, memory, disk I/O, and network traffic.    
 Step 3: How Grafana Asks Prometheus for Data (The Logic)
-
+If you ever want to create your own custom graph panel, Grafana uses PromQL (Prometheus Query Language) to pull the data.    
+When you click "Add Visualization" inside a dashboard, Grafana will open a query builder. You type a PromQL metric name into the query box, and Prometheus sends back the numbers.    
+Common Node Exporter PromQL Examples:
+=Total RAM Used %: (node_memory_MemTotal_bytes - node_memory_MemAvailable_bytes) / node_memory_MemTotal_bytes * 100
+=CPU Idle %: sum by (instance) (rate(node_cpu_seconds_total{mode="idle"}[5m]))
+=Disk Space Usage %: 100 - ((node_filesystem_avail_bytes{mountpoint="/"} * 100) / node_filesystem_size_bytes{mountpoint="/"})    
 
 
 
