@@ -21,8 +21,9 @@ Step 2: Use a Pre-built Node Exporter Dashboard (Recommended)
 6. Paste the ID 1860 into the "Import via grafana.com" field and click Load.
 7. On the next screen, select your Prometheus data source from the dropdown menu at the bottom.
 8. Click Import.
-Your dashboard will instantly populate with live graphs showing your server's CPU usage, memory, disk I/O, and network traffic.    
-Step 3: How Grafana Asks Prometheus for Data (The Logic)
+Your dashboard will instantly populate with live graphs showing your server's CPU usage, memory, disk I/O, and network traffic.
+ 
+<u>Step 3: How Grafana Asks Prometheus for Data (The Logic)  </u>
 If you ever want to create your own custom graph panel, Grafana uses PromQL (Prometheus Query Language) to pull the data.    
 When you click "Add Visualization" inside a dashboard, Grafana will open a query builder. You type a PromQL metric name into the query box, and Prometheus sends back the numbers.    
 Common Node Exporter PromQL Examples:
