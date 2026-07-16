@@ -6,7 +6,7 @@
 Your cluster layout    
 - Total: 100 nodes
 - GPU nodes: server23 to server36 and server63 to server72   
-==========    
+ 
 Step 1: Label your GPU nodes
 =DaemonSets use nodeSelector or nodeAffinity to pick nodes. The cleanest way is to give all GPU nodes a common label.
 ```bash
@@ -19,6 +19,24 @@ done
 for i in {63..72}; do
   kubectl label nodes server${i} gpu=true --overwrite
 done
+
+$kubectl get nodes -l gpu=true
+=You should see 24 nodes: server23-36 + server63-72    
 ```
+Step 2: Create a namespace    
+```yaml
+in Bash
+kubectl create namespace gpu-agents
+in yaml
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gpu-agents
+```
+
+
+
+
+
 ------   
 weterwtrt   
