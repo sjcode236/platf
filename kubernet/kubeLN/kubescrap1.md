@@ -24,15 +24,17 @@ $kubectl get nodes -l gpu=true
 =You should see 24 nodes: server23-36 + server63-72    
 ```
 Step 2: Create a namespace    
+in Bash    
+kubectl create namespace gpu-agents    
 ```yaml
-in Bash
-kubectl create namespace gpu-agents
 in yaml
 apiVersion: v1
 kind: Namespace
 metadata:
   name: gpu-agents
 ```
+kubectl apply -f namespace.yaml    
+
 
 
 
