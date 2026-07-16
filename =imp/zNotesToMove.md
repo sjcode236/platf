@@ -22,6 +22,13 @@ https://www.splunk.com/en_us/download/o11y-cloud-free-trial.html
 27-minute workshop on how to actually do prompts for Claude.     
 https://x.com/vicky_grok/status/2071209343043952947?s=20      
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     
+Real-Time Forward Deployed Engineer (FDE) project using an E-Commerce Application     
+https://www.youtube.com/watch?v=miHREcaScRY     
+Forward Deployed Engineer (FDE) Roadmap in 20 Minutes     
+https://www.youtube.com/watch?v=SOU28VT-Ns4      
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀        
+
+
 
 
 
