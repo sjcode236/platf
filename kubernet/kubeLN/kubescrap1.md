@@ -106,14 +106,44 @@ kubectl get pods -n gpu-agents -o wide | grep -E 'server2[3-9]|server3[0-6]|serv
 # Make sure no pods landed on CPU nodes like server1, server50, etc
 kubectl get pods -n gpu-agents -o wide | grep -v -E 'server2[3-9]|server3[0-6]|server6[3-9]|server7[0-2]'
 ```
+**Alternative: Use existing NVIDIA labels**    
+------     
+If you have GPU Operator or node-feature-discovery running, skip step 1 and use this instead:    
+```yaml
+nodeSelector:
+  nvidia.com/gpu.present: "true"
+```
+Then you don’t need to manually label nodes. Check if you have it:   
+* kubectl get nodes -L nvidia.com/gpu.present
+
+```yaml
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: gpu-test
+  namespace: gpu-agents
+spec:
+  selector:
+    matchLabels:
+      app: gpu-test
+  template:
+    metadata:
+      labels:
+        app: gpu-test
+    spec:
+      nodeSelector:
+        gpu: "true"
+      tolerations:
+      - operator: Exists
+      containers:
+      - name: test
+        image: busybox
+        command: [ "sh", "-c", "echo I am on $(hostname) && sleep 3600" ]
+```
+kubectl logs -n gpu-agents -l app=gpu-test should show only server23-36 and server63-72.    
+That’s it. You’ll now have 1 pod per GPU node, 24 total, and 0 pods on the other 76 nodes    
 
 
 
 
-
-
-
-
-
-------   
 weterwtrt   
