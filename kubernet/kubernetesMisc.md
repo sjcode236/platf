@@ -79,6 +79,8 @@ Day 1 | Kubernetes Architecture & Pods Explained in Simple Terms | Kubernetes | 
 https://www.youtube.com/watch?v=QC96gRHDCZ4&list=PLO1kwrvz02GkTisqdXUZJKHPsatU3jJ6N     
 Day 2 | Kubernetes Pods & Multi-Container Pods    
 https://www.youtube.com/watch?v=jXAMy58cXTY&list=PLO1kwrvz02GkTisqdXUZJKHPsatU3jJ6N&index=2     
+DAY-42 | KUBERNETES MONITORING USING PROMETHEUS & GRAFANA |LIVE DEMO |STEPS IN GITHUB |    
+https://www.youtube.com/watch?v=EeiYpnBHnhY    
 
 ══════════════════════════════════════════    
 GKE Tutorial: Create Cluster-Multiple methods|Automate-GitHub Action & Terraform|Deploy Application ( TheKubeKloud )      
