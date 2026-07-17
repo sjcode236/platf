@@ -34,6 +34,81 @@ metadata:
   name: gpu-agents
 ```
 kubectl apply -f namespace.yaml    
+**Step 3:** Create the DaemonSet manifest   
+=This example runs a DCGM Exporter, but the same pattern works for any agent. Save as gpu-daemonset.yaml:   
+```yaml
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: gpu-agent
+  namespace: gpu-agents
+  labels:
+    app: gpu-agent
+spec:
+  selector:
+    matchLabels:
+      app: gpu-agent
+  template:
+    metadata:
+      labels:
+        app: gpu-agent
+    spec:
+      nodeSelector:
+        gpu: "true"   # This is the key line - only schedule on GPU nodes
+      tolerations:
+      - key: nvidia.com/gpu
+        operator: Exists
+        effect: NoSchedule   # GPU nodes are often tainted, so tolerate it
+      - key: nvidia.com/gpu
+        operator: Exists
+        effect: NoExecute
+      containers:
+      - name: gpu-agent
+        image: nvidia/dcgm-exporter:3.3.5-3.4.0-ubuntu22.04
+        env:
+        - name: DCGM_EXPORTER_KUBERNETES
+          value: "true"
+        ports:
+        - name: metrics
+          containerPort: 9400
+        securityContext:
+          runAsNonRoot: false
+          privileged: true  # DCGM needs NVML access
+        volumeMounts:
+        - name: proc
+          mountPath: /host/proc
+          readOnly: true
+        - name: sys
+          mountPath: /host/sys
+          readOnly: true
+      volumes:
+      - name: proc
+        hostPath:
+          path: /proc
+      - name: sys
+        hostPath:
+          path: /sys
+      hostNetwork: true
+      hostPID: true   # DCGM needs to see host processes
+  updateStrategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 1
+```
+Bash    
+kubectl apply -f gpu-daemonset.yaml       
+**Step 5:** Verify it’s running only on GPU nodes    
+```bash
+# Should show 24 pods total
+kubectl get pods -n gpu-agents -o wide
+# Check that all pods are on server23-36 and server63-72
+kubectl get pods -n gpu-agents -o wide | grep -E 'server2[3-9]|server3[0-6]|server6[3-9]|server7[0-2]'
+# Make sure no pods landed on CPU nodes like server1, server50, etc
+kubectl get pods -n gpu-agents -o wide | grep -v -E 'server2[3-9]|server3[0-6]|server6[3-9]|server7[0-2]'
+```
+
+
+
 
 
 
