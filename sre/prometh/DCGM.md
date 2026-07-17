@@ -1,6 +1,6 @@
 
 **-  DCGM = Data Center GPU Manager   -**    
-Pulling NVIDIA GPU telemetry from DCGM Exporter into Prometheus and visualizing it in Grafana follows the exact same architectural logic as Node Exporter, but operates on Port 9400.
+Pulling NVIDIA GPU telemetry from **DCGM Exporter into Prometheus and visualizing it in Grafana** follows the exact same architectural logic as Node Exporter, but operates on Port 9400.
 
 Step 1: Verify DCGM Exporter is Running     
 Before configuring Prometheus, ensure your NVIDIA DCGM Exporter is running and exposing metrics on your GPU server.    
