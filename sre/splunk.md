@@ -35,8 +35,15 @@ Prometheus, and Grafana?While Splunk doesn't need Prometheus to talk to Grafana,
 
 2.  Splunk can acting as the long-term storage for Prometheus := Some organizations use Prometheus to scrape raw metrics locally, but then use Prometheus's Remote Write feature to automatically send those metrics into Splunk (using Splunk's Metrics Index). In this case, Grafana would pull the historical metrics directly out of Splunk.
 3.  
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+- In Splunk, the tool that collects server metrics (like CPU and memory) is the **Splunk Universal Forwarder or the Splunk Distribution of OpenTelemetry**      Collector.
+- Splunk Observability Cloud collects server metrics primarily using the Splunk Distribution of the OpenTelemetry Collector. Deployed on each host as a lightweight agent, it scrapes system resources like CPU, memory, disk I/O, network traffic, and process counts. The Collector then processes and securely pushes this data to the platform.
+- - Collection: It uses built-in features called scrapers (or plug-ins) to pull data directly from the host's operating system.
+  - Publishing: The collector actively pushes (streams) this metric data in real-time directly to the Splunk Observability Cloud.   
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     
+-  How the **Universal Forwarder Works (Classic Splunk Enterprise)**
+- - Collection: It uses local system commands to monitor performance. On Linux, it runs scripts or uses the Splunk Add-on for Unix.
+  - Publishing: The forwarder constantly pushes the data over TCP (usually port 9997) to your central Splunk Indexer, where it is written to the database.
 
 
 
