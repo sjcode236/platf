@@ -45,13 +45,14 @@ Terraform Cloud tutorial: Automate creating a GKE cluster with Infrastructure as
 https://www.youtube.com/watch?v=peLWZXDM_eU&t=1112s      
 
 Deploying GCP VPC, Subnet, Firewall & Compute Engine Using Terraform (vijay giduthuri)   
-https://medium.com/@vijaygiduthuri67/deploying-gcp-vpc-subnet-firewall-compute-engine-using-terraform-69b324acae7e    
+https://medium.com/@vijaygiduthuri67/deploying-gcp-vpc-subnet-firewall-compute-engine-using-terraform-69b324acae7e     
+Create a GCP Virtual Machine Using Terraform | Step-by-Step Tutorial | GCP | Terraform | (vijay giduthuri)    
+https://www.youtube.com/watch?v=pakXHs9dOok    
 Create GKE Cluster Using Terraform | Google Cloud  (vijay giduthuri)    
 https://www.youtube.com/watch?v=K9IFF9AFnVI&t=861s    
 Automate Creating GKE Cluster Using Terraform and Jenkins | Google Cloud  (vijay giduthuri)  
 https://www.youtube.com/watch?v=Or-_tSnHQzA&t=64s    
-Create a GCP Virtual Machine Using Terraform | Step-by-Step Tutorial | GCP | Terraform | (vijay giduthuri)    
-https://www.youtube.com/watch?v=pakXHs9dOok    
+
 
 Creating and deleting GKE Clusters in GCP using Terraform (Kavitha Suresh Kumar; 6 mins)     
 https://www.youtube.com/watch?v=OlXtof4HykQ&t=260s     
