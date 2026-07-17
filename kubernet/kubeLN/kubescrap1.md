@@ -143,7 +143,3 @@ spec:
 kubectl logs -n gpu-agents -l app=gpu-test should show only server23-36 and server63-72.    
 That’s it. You’ll now have 1 pod per GPU node, 24 total, and 0 pods on the other 76 nodes    
 
-
-
-
-weterwtrt   
