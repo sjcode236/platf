@@ -36,7 +36,7 @@ pip install ansible
 ansible --version    
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄       
 
-terraform install on macbook   
+**terraform install on macbook**       
 1) download terrafrom zip for macos , AMD64 version  from  https://developer.hashicorp.com/terraform/install
    ```
    cp ~/Downloads/terraform_1.15.6_darwin_amd64.zip  /Users/3terra    
@@ -44,11 +44,15 @@ terraform install on macbook
    unzip terraform_1.15.6_darwin_amd64.zip
    chmod +x terraform
    in .profile add path
-   vi ~/.profile
+   vi ~/.profil
    #path adding
    export PATH="/Users/3terra:$PATH"
    ```
-   
+ **Install Terraform on Windows 10/11 (Manual Method)**     
+ https://www.youtube.com/watch?v=pySmwyRhx-A     
+ **Installing Terraform on Windows (Using Chocolatey)**    
+ https://www.youtube.com/watch?v=O_R0DEg1Bgw    
+ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
    
     
 
