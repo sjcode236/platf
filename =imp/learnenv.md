@@ -51,8 +51,12 @@ ansible --version
  **Install Terraform on Windows 10/11 (Manual Method)**     
  https://www.youtube.com/watch?v=pySmwyRhx-A     
  **Installing Terraform on Windows (Using Chocolatey)**    
- https://www.youtube.com/watch?v=O_R0DEg1Bgw    
- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
+ https://www.youtube.com/watch?v=O_R0DEg1Bgw     
+=Install gitbash on the windows laptop   
+=Then open gitbash window and run "terrafrom -v"
+
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
    
     
 
