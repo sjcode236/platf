@@ -28,7 +28,11 @@ Prometheus :-
 Prometheus, Node Exporter & Grafana Setup on Linux | Complete Monitoring Stack with systemd    
 https://www.youtube.com/watch?v=sGMXsUTEVr0   (Techi Nik)   
 watch video and type the steps    
-══+════════════════════════════════════════  
+══+════════════════════════════════════════     
+
+Setup Prometheus Monitoring on Kubernetes using Helm and Prometheus Operator | Part 1      
+https://www.youtube.com/watch?v=QoDqxm7ybLc  ( TechWorld with Nana )    
+══+════════════════════════════════════════       
 
 
 
