@@ -33,6 +33,13 @@ watch video and type the steps
 Setup Prometheus Monitoring on Kubernetes using Helm and Prometheus Operator | Part 1      
 https://www.youtube.com/watch?v=QoDqxm7ybLc  ( TechWorld with Nana )    
 ══+════════════════════════════════════════       
+Monitoring Google Kubernetes Cluster using Prometheus & Grafana | GKE | Monitoring | Google Cloud |   
+https://www.youtube.com/watch?v=5M-lkl2EqIE  (  vijay giduthuri )     
+══+════════════════════════════════════════      
+How-To Install NVIDIA DCGM with Prometheus and Grafana in Kubernetes   
+https://www.youtube.com/watch?v=GPYE6se_EyE  ( Fahd Mirza  )   
+
+
 
 
 
