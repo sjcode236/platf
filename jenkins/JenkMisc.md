@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=K9IFF9AFnVI
 Automate Creating GKE Cluster Using Terraform and Jenkins | Google Cloud    
 https://www.youtube.com/watch?v=Or-_tSnHQzA     
 Automating GCP Infrastructure using Terraform and Jenkins | Full CI/CD Pipeline    
-https://www.youtube.com/watch?v=ztAWlAqUOoU      
+https://www.youtube.com/watch?v=ztAWlAqUOoU  (vijay giduthuri)     
+https://github.com/vijaygiduthuri/Google-Infra    
 
 
 
