@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=14x4XwEwiDs
 TechTrapture  channell:- many videos :-    
 Terraform with Google Cloud:-    
 Create GCP Folder using Terraform | Terraform with Google Cloud     
-https://www.youtube.com/watch?v=dtJfkUgadYY&list=PLLrA_pU9-Gz0jyZ3ES0HnP3oJA8uY8KOB&index=2    
+https://www.youtube.com/watch?v=dtJfkUgadYY&list=PLLrA_pU9-Gz0jyZ3ES0HnP3oJA8uY8KOB&index=2   ( TechTrapture )      
+https://github.com/vishal-bulbule/Python-for-GCP/blob/main/Python%20for%20GCP/Infra_with_python/compute.py     
 
  GCP  Data  Engineering projects       
 Creating an ETL Data Pipeline on Google Cloud with Cloud Data Fusion & Airflow   
